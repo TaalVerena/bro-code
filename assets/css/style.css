@@ -12,4 +12,19 @@
 body {
     font-family: Roboto, sans-serif;
     font-weight: 400;
+    color: #071726;
+}
+
+/* logo and headings */
+
+#logo {
+    float: left;
+    font-size: 350%;
+}
+
+h1, h2 {
+    font-family: Tektur, sans-serif;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    color: #071726;
 }
