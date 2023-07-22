@@ -53,6 +53,11 @@ h1, h2 {
     color: white;
 }
 
+#menu a:hover, .glow {
+    color: #70e7e7;
+    text-shadow: 0 0 10px #14e0e0;
+}
+
 /* header */
 
 header {
