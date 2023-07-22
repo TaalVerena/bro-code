@@ -62,19 +62,27 @@ h1, h2 {
 
 header {
     height: 75px;
-    background-color: #3F4099;
+    background-color: rgba(63, 64, 153, .9);
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    width: 100%;
 }
 
 /* hero image */
 
 #hero-container {
-    height: 580px;
+    height: 630px;
     width: 100%;
     overflow: none;
+    position: relative;
+    top: 0;
+    left: 0;
 }
 
 #hero-image {
-    height: 580px;
+    height: 630px;
     width: 100%;
     background-image: url('../images/hero-image.jpg');
     background-position: center;
