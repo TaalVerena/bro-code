@@ -39,6 +39,10 @@ Check for any errors returned when passing through the official (Jigsaw) validat
 ## Deployment
 
 ## Credits
+Hero Image:
+https://www.freepik.com/
+
+Swatches:
 Dark Swatch
 #400D32
 #231559
@@ -54,6 +58,8 @@ Colorful Swatch
 #F25252
 
 Swatches generated on https://color.adobe.com/create/image.
+
+
 
 ### Content
 
