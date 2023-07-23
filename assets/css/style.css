@@ -12,6 +12,7 @@ body {
     font-family: Roboto, sans-serif;
     font-weight: 400;
     color: #071726;
+    margin-bottom: 95px;
 }
 
 /* logo and headings */
@@ -119,7 +120,8 @@ header {
 #about-us > p {
     text-align: center;
     font-size: 125%;
-    margin: 10px 120px;
+    margin: 20px auto;
+    max-width: 1100px;
 }
 
 /* footer */
