@@ -32,6 +32,14 @@ h1, h2 {
     letter-spacing: 2px;
 }
 
+h2 {
+    color: #393a9b;
+    text-align: center;
+    font-size: 175%;
+    font-weight: 50;
+    margin: 10px 0;
+}
+
 /* navigation bar */
 
 #menu, #logo {
@@ -109,18 +117,6 @@ header {
 }
 
 /* about us */
-
-#about-us {
-    
-}
-
-#about-us-heading {
-    color: #393a9b;
-    text-align: center;
-    font-size: 175%;
-    font-weight: 50;
-    margin: 10px 0;
-}
 
 #about-us > p {
     text-align: center;
