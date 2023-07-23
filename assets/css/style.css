@@ -106,6 +106,22 @@ header {
     text-shadow: 0 0 20px #79ffff;
 }
 
+/* about us */
+
+#about-us-heading {
+    color: #393a9b;
+    text-align: center;
+    font-size: 175%;
+    font-weight: 50;
+    margin: 10px 0;
+}
+
+#about-us > p {
+    text-align: center;
+    font-size: 125%;
+    margin: 10px 120px;
+}
+
 /* footer */
 
 footer {
