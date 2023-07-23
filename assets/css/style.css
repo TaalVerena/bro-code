@@ -92,6 +92,20 @@ header {
     position: relative;
 }
 
+/* cover text */
+
+#cover-text {
+    right: 8%;
+    bottom: 2%;
+    width: 300px;
+    position: absolute;
+    text-align: center;
+    font-size: 155%;
+    line-height: 35px;
+    color: #14e0e0;
+    text-shadow: 0 0 20px #79ffff;
+}
+
 /* footer */
 
 footer {
