@@ -130,11 +130,25 @@ header {
 
 /* groups */
 
+.groups-container {
+    display: flex;
+}
+
 .groups-left {
     position: relative;
     left: 50px;
     width: 100%;
     display: flex;
+    flex: 1;
+    align-items: center;
+}
+
+.groups-right {
+    position: relative;
+    right: 50px;
+    width: 100%;
+    display: flex;
+    flex: 1;
     align-items: center;
 }
 
@@ -159,7 +173,7 @@ header {
     box-shadow: 0 0 7px 7px #70e7e7;
 }
 
-.groups-circle-marroon {
+.groups-circle-purple {
     background-color: #801c65;
     box-shadow: 0 0 7px 7px #db8ac7;
 }
@@ -178,6 +192,12 @@ header {
 
 .groups-paragraph-left > p {
     margin-left: 20px;
+    width: 55%;
+    font-size: 125%;
+}
+
+.groups-paragraph-right > p {
+    margin-right: 20px;
     width: 55%;
     font-size: 125%;
 }
