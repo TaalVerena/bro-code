@@ -12,7 +12,7 @@ body {
     font-family: Roboto, sans-serif;
     font-weight: 400;
     color: #071726;
-    margin-bottom: 95px;
+    margin-bottom: 74px;
     background-color: rgb(250, 253, 243);
 }
 
@@ -46,7 +46,6 @@ h2 {
 #menu,
 #logo {
     line-height: 75px;
-    /* accommodates logo & menu; auto aligns vertically*/
 }
 
 #menu ul {
@@ -202,6 +201,22 @@ header {
     width: 55%;
     font-size: 125%;
     float: right;
+}
+
+/* meetups */
+
+#meetups-container {
+    margin: 0;
+}
+
+#meetups-image {
+    height: 550px;
+    width: 100%;
+    background-image: url('../images/meetups-image.jpg');
+    background-position-y: -600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 }
 
 /* footer */
