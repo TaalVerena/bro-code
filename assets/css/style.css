@@ -233,7 +233,17 @@ header {
     justify-items: center;
     flex-direction: column;
     border-radius: 10px;
-    gap: 5%;
+}
+
+.meetups-details > h4 {
+    padding: 5% 0;
+    font-size: 128%;
+}
+
+.meetups-details > p {
+    padding: 2%;
+    line-height: 30px;
+    font-size: 125%;
 }
 
 /* footer */
