@@ -60,12 +60,12 @@ h2 {
     font-size: 140%;
 }
 
-#menu a {
+a {
     text-decoration: none;
     color: white;
 }
 
-#menu a:hover {
+a:hover {
     color: #70e7e7;
     text-shadow: 0 0 10px #14e0e0;
 }
@@ -256,5 +256,22 @@ footer {
     bottom: 0;
     position: fixed;
     text-align: center;
-    color: white;
+}
+
+#footer-links {
+    line-height: 75px;
+}
+
+#footer-links {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+#footer-links li {
+    display: flex;
+    margin-right: 15px;
+    margin-left: 3px;
+    font-size: 140%;
+    flex-direction: row;
 }
