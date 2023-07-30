@@ -17,8 +17,9 @@ body {
     font-family: Roboto, sans-serif;
     font-weight: 400;
     color: #071726;
-    margin-bottom: 74px;
-    background-color: rgb(250, 253, 243);
+    background-color: rgb(43, 22, 97);
+    padding-top: 74px;
+    padding-bottom: 74px;
 }
 
 /* logo and headings */
@@ -31,8 +32,7 @@ body {
     color: white;
 }
 
-h1,
-h2 {
+h1 {
     font-family: Caprasimo, sans-serif;
     text-transform: capitalize;
     letter-spacing: 2px;
