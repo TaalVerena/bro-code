@@ -219,10 +219,6 @@ p {
     border-bottom: 4px solid #04cbd9dc;
 }
 
-.groups-container {
-    display: flex;
-}
-
 /* meetups */
 #meetups-container {
     height: 550px;
