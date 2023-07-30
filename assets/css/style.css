@@ -1,7 +1,7 @@
 /* font import */
 @import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Goldman&family=Lato&display=swap');
-/* default rules */
 
+/* default rules */
 * {
     margin: 0;
     padding: 0;
@@ -23,7 +23,6 @@ body {
 }
 
 /* logo and headings */
-
 #logo {
     float: left;
     font-size: 300%;
@@ -47,7 +46,6 @@ h2 {
 }
 
 /* navigation bar */
-
 #menu,
 #logo {
     line-height: 75px;
@@ -76,7 +74,6 @@ a:hover {
 }
 
 /* header */
-
 header {
     height: 75px;
     background-color: rgba(43, 22, 97, 1);
@@ -89,7 +86,6 @@ header {
 
 
 /* hero image */
-
 #hero-container {
     height: 630px;
     width: 100%;
@@ -110,7 +106,6 @@ header {
 }
 
 /* cover text */
-
 #cover-text {
     right: 8%;
     bottom: 2%;
@@ -124,6 +119,10 @@ header {
 }
 
 /* groups */
+#groups {
+    background: rgb(28,9,73);
+    background: linear-gradient(180deg, rgba(28,9,73,1) 0%, rgba(14,51,93,1) 100%);
+}
 
 .groups-container {
     display: flex;
@@ -199,7 +198,6 @@ header {
 }
 
 /* meetups */
-
 #meetups-container {
     height: 550px;
 }
@@ -244,7 +242,6 @@ header {
 }
 
 /* about us */
-
 #about-us > p {
     text-align: center;
     font-size: 125%;
@@ -253,7 +250,6 @@ header {
 }
 
 /* footer */
-
 footer {
     height: 75px;
     width: 100%;
