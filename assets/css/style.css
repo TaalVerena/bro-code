@@ -177,6 +177,33 @@ p {
     line-height: 50px;
 }
 
+.box-maroon {
+    background-color: #94176B;
+}
+
+.box-purple {
+    background-color: #422dc9;
+}
+
+.box-blue {
+    background-color: #04cbd9dc;
+}
+
+.paragraph-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 900px;
+    margin: 20px 40px;
+}
+
+.paragraph-container>p {
+    font-size: 125%;
+    text-align: center;
+    line-height: 30px;
+    padding: 20px;
+}
+
 /* meetups */
 #meetups-container {
     height: 550px;
