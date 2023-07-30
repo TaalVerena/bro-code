@@ -79,7 +79,7 @@ a:hover {
 
 header {
     height: 75px;
-    background-color: rgba(63, 64, 153, .9);
+    background-color: rgba(43, 22, 97, 1);
     position: fixed;
     top: 0;
     left: 0;
@@ -257,7 +257,7 @@ header {
 footer {
     height: 75px;
     width: 100%;
-    background-color: #3F4099;
+    background-color: rgba(43, 22, 97, 1);
     left: 0;
     bottom: 0;
     position: fixed;
@@ -266,9 +266,6 @@ footer {
 
 #footer-links {
     line-height: 75px;
-}
-
-#footer-links {
     list-style: none;
     display: flex;
     justify-content: center;
