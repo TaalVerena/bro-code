@@ -224,13 +224,29 @@ p {
     height: 550px;
 }
 
+#meetups-heading {
+    height: 75px;
+    width: 100%;
+    background-color: rgba(14,51,93,1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#meetups-heading>h2 {
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-align: center;
+}
+
 #meetups-image {
     height: 550px;
     padding: 0 10px;
-    background-color: #2A233F;
-    /* background-image: url('../images/meetups-image_ed.jpg');
+    background-image: url('../images/meetups-image.jpg');
     background-repeat: no-repeat;
-    background-size: cover; */
+    background-size: cover;
     position: relative;
     display: flex;
     align-items: center;
