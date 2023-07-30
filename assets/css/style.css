@@ -204,6 +204,25 @@ p {
     padding: 20px;
 }
 
+.maroon-border>p {
+    border-top: 4px solid #94176B;
+    border-bottom: 4px solid #94176B;
+}
+
+.purple-border>p {
+    border-top: 4px solid #422dc9;
+    border-bottom: 4px solid #422dc9;
+}
+
+.blue-border>p {
+    border-top: 4px solid #04cbd9dc;
+    border-bottom: 4px solid #04cbd9dc;
+}
+
+.groups-container {
+    display: flex;
+}
+
 /* meetups */
 #meetups-container {
     height: 550px;
