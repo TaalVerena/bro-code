@@ -138,77 +138,43 @@ header {
     text-align: center;
 }
 
-.groups-container {
+#groups-container {
     display: flex;
+    flex-direction: column;
+    max-width: 1800px;
+    margin: auto;
 }
 
-.groups-left {
-    position: relative;
-    left: 50px;
-    width: 100%;
+.groups-row-left {
     display: flex;
-    flex: 1;
-    align-items: center;
+    flex-direction: row;
 }
 
-.groups-right {
-    position: relative;
-    right: 50px;
-    width: 100%;
+.groups-row-right {
     display: flex;
-    flex: 1;
-    align-items: center;
+    flex-direction: row-reverse;
 }
 
-.groups-circle {
-    height: 160px;
-    min-width: 160px;
-    border-radius: 50%;
-    position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-bottom: 30px;
-}
-
-.groups-circle-purple {
-    background-color: #3F4099;
-    box-shadow: 0 0 7px 7px #9595fc;
-}
-
-.groups-circle-blue {
-    background-color: #16d1df;
-    box-shadow: 0 0 7px 7px #70e7e7;
-}
-
-.groups-circle-purple {
-    background-color: #801c65;
-    box-shadow: 0 0 7px 7px #db8ac7;
-}
-
-.groups-circle-red {
-    background-color: #ee4b4b;
-    box-shadow: 0 0 7px 7px #ff7878;
-}
-
-.groups-circle h3 {
-    text-align: center;
-    line-height: 35px;
-    font-size: 150%;
+#groups-container h2,
+h3,
+p {
     color: white;
 }
 
-.groups-paragraph-left > p {
-    margin-left: 20px;
-    width: 55%;
-    font-size: 125%;
+.box {
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 40px;
 }
 
-.groups-paragraph-right > p {
-    margin-right: 20px;
-    width: 55%;
-    font-size: 125%;
-    float: right;
+.box>h3 {
+    font-size: 150%;
+    text-align: center;
+    line-height: 50px;
 }
 
 /* meetups */
