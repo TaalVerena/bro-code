@@ -280,6 +280,12 @@ p {
 }
 
 /* about us */
+#about-us {
+    background: rgb(11,65,111);
+    background: linear-gradient(180deg, rgba(11,65,111,1) 0%, rgba(27,11,74,1) 100%);
+    padding-bottom: 30px;
+}
+
 #about-us > p {
     text-align: center;
     font-size: 125%;
