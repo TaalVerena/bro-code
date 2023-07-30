@@ -123,15 +123,6 @@ header {
     text-shadow: 0 0 20px #79ffff;
 }
 
-/* about us */
-
-#about-us > p {
-    text-align: center;
-    font-size: 125%;
-    margin: 20px auto;
-    max-width: 1100px;
-}
-
 /* groups */
 
 .groups-container {
@@ -250,6 +241,15 @@ header {
     padding: 2%;
     line-height: 30px;
     font-size: 125%;
+}
+
+/* about us */
+
+#about-us > p {
+    text-align: center;
+    font-size: 125%;
+    margin: 20px auto;
+    max-width: 1100px;
 }
 
 /* footer */
