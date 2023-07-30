@@ -124,6 +124,20 @@ header {
     background: linear-gradient(180deg, rgba(28,9,73,1) 0%, rgba(14,51,93,1) 100%);
 }
 
+#groups-heading {
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#groups-heading>h2 {
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-align: center;
+}
+
 .groups-container {
     display: flex;
 }
