@@ -254,7 +254,7 @@ header {
     border-radius: 10px;
 }
 
-.meetups-details > h4 {
+.meetups-details > h3 {
     padding: 5% 0;
     font-size: 128%;
 }
