@@ -246,9 +246,21 @@ header {
     border-radius: 10px;
 }
 
-.meetups-details > h3 {
+.meetups-title {
     padding: 6%;
     font-size: 145%;
+}
+
+.title-blue {
+    color: #05595fdc;
+}
+
+.title-purple {
+    color: #422dc9;
+}
+
+.title-maroon {
+    color: #94176B;
 }
 
 .meetups-details > p {
