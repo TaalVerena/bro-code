@@ -154,7 +154,7 @@ header {
     color: white;
 }
 
-.box {
+.title-container {
     width: 200px;
     height: 200px;
     border-radius: 10%;
@@ -162,12 +162,7 @@ header {
     justify-content: center;
     align-items: center;
     margin: 20px 40px;
-}
-
-.box>h3 {
-    font-size: 150%;
-    text-align: center;
-    line-height: 50px;
+    font-size: 145%;
 }
 
 .box-maroon {
