@@ -96,7 +96,7 @@ header {
 #hero-image {
     height: 630px;
     width: 100%;
-    background-image: url('../images/hero-image.jpg');
+    background-image: url('../images/hero-image.webp');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -224,7 +224,7 @@ header {
 #meetups-container-image {
     height: 550px;
     padding: 0 10px;
-    background-image: url('../images/meetups-image.jpg');
+    background-image: url('../images/meetups-image.webp');
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
