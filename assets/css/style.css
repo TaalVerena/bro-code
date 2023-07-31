@@ -214,8 +214,17 @@ header {
 }
 
 /* meetups */
-#meetups-container {
+#meetups-container-image {
     height: 550px;
+    padding: 0 10px;
+    background-image: url('../images/meetups-image.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 2%;
 }
 
 #meetups-heading {
@@ -229,19 +238,6 @@ header {
     text-transform: uppercase;
     letter-spacing: 4px;
     text-align: center;
-}
-
-#meetups-image {
-    height: 550px;
-    padding: 0 10px;
-    background-image: url('../images/meetups-image.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    gap: 2%;
 }
 
 .meetups-details {
