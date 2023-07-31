@@ -42,7 +42,6 @@ h2 {
     text-align: center;
     font-size: 175%;
     font-weight: 50;
-    margin: 10px 0;
 }
 
 /* navigation bar */
@@ -129,9 +128,6 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
-}
-
-#groups-heading>h2 {
     color: white;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -231,10 +227,6 @@ p {
     display: flex;
     align-items: center;
     justify-content: center;
-
-}
-
-#meetups-heading>h2 {
     color: white;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -291,9 +283,6 @@ p {
     display: flex;
     align-items: center;
     justify-content: center;
-}
-
-#about-us-heading>h2 {
     color: white;
     text-transform: uppercase;
     letter-spacing: 4px;
