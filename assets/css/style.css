@@ -151,9 +151,7 @@ header {
     flex-direction: row-reverse;
 }
 
-#groups-container h2,
-h3,
-p {
+#groups-container h2,h3,p {
     color: white;
 }
 
