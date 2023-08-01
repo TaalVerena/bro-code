@@ -332,7 +332,7 @@ footer {
     flex-direction: row;
 }
 
-/* form */
+/* form hero image */
 #form-hero-container {
     height: 900px;
     width: 100%;
@@ -351,3 +351,17 @@ footer {
     background-size: cover;
     position: relative;
 }
+
+/* form cover text */
+
+#form-cover-text {
+    color: white;
+    width: 45%;
+    position: absolute;
+    top: 2%;
+    left: 1%;
+    background-color: rgba(255, 255, 255, 0.6);
+    border-radius: 20px;
+}
+
+/* form */
