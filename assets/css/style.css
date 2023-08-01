@@ -333,3 +333,11 @@ footer {
 }
 
 /* form */
+#form-hero-container {
+    height: 900px;
+    width: 100%;
+    overflow: none;
+    position: relative;
+    top: 0;
+    left: 0;
+}
