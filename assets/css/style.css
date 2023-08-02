@@ -353,7 +353,6 @@ footer {
 }
 
 /* form cover text */
-
 #form-cover-text {
     color: white;
     width: 45%;
@@ -366,6 +365,10 @@ footer {
 }
 
 /* form */
+form {
+    height: 620px;
+}
+
 #form-heading {
     color: white;
     padding: 1%;
@@ -410,8 +413,4 @@ select, input {
     color: #70e7e7;
     text-shadow: 0 0 10px #14e0e0;
     font-size: 105%;
-}
-
-form {
-    height: 620px;
 }
