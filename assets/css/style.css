@@ -373,13 +373,14 @@ footer {
 
 #form-section {
     color: white;
-    width: 45%;
+    max-width: 45%;
     position: absolute;
     top: 21%;
     left: 2%;
     font-size: 125%;
     background-color: rgba(148, 23, 107, 0.6);
     border-radius: 10px;
+    padding-left: 1%;
 }
 
 #user-details > input {
