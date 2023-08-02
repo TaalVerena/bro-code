@@ -365,6 +365,10 @@ footer {
 }
 
 /* form */
+#form-heading {
+    color: white;
+    padding: 1%;
+}
 
 #form-section {
     color: white;
