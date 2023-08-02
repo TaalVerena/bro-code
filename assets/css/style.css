@@ -411,3 +411,7 @@ select, input {
     text-shadow: 0 0 10px #14e0e0;
     font-size: 105%;
 }
+
+form {
+    height: 620px;
+}
