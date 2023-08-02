@@ -436,8 +436,8 @@ select, input {
 
 /* thank you cover text */
 #thank-you-cover-text {
-    max-width: 500px;
-    background-color: rgba(11,65,111,0.9);
+    max-width: 35%;
+    background-color: rgba(11,65,111,0.8);
     position: relative;
     top: 5%;
     margin-left: auto;
@@ -449,4 +449,5 @@ select, input {
 #thank-you-cover-text > h2, h3 {
     color: white;
     padding: 2%;
+    line-height: 20px;
 }
