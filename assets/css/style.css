@@ -399,4 +399,6 @@ select, input {
 #submit {
     background-color: #2b1661;
     color: white;
+    margin-top: 2%;
+    padding: 0.8%;
 }
