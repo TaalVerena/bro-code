@@ -334,7 +334,7 @@ footer {
 
 /* form hero image */
 #form-hero-container {
-    height: 900px;
+    height: 800px;
     width: 100%;
     overflow: none;
     position: relative;
@@ -343,7 +343,7 @@ footer {
 }
 
 #form-hero-image {
-    height: 900px;
+    height: 800px;
     width: 100%;
     background-image: url('../images/join-hero-image.webp');
     background-position: center;
