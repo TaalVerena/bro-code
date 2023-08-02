@@ -405,3 +405,9 @@ select, input {
     padding: 0.8%;
     border-radius: 10px;
 }
+
+#submit:hover {
+    color: #70e7e7;
+    text-shadow: 0 0 10px #14e0e0;
+    font-size: 105%;
+}
