@@ -9,7 +9,7 @@
 }
 
 html {
-    scroll-padding-top: 75px;
+    scroll-padding-top: 65px;
     scroll-behavior: smooth;
 }
 
@@ -18,14 +18,14 @@ body {
     font-weight: 400;
     color: #071726;
     background-color: rgb(43, 22, 97);
-    padding-top: 74px;
-    padding-bottom: 74px;
+    padding-top: 64px;
+    padding-bottom: 64px;
 }
 
 /* logo and headings */
 #logo {
     float: left;
-    font-size: 300%;
+    font-size: 270%;
     font-weight: 300;
     margin-left: 15px;
     color: white;
@@ -40,14 +40,14 @@ h1 {
 h2 {
     color: #393a9b;
     text-align: center;
-    font-size: 175%;
+    font-size: 160%;
     font-weight: 50;
 }
 
 /* navigation bar */
 #menu,
 #logo {
-    line-height: 75px;
+    line-height: 65px;
 }
 
 #menu ul {
@@ -59,7 +59,7 @@ h2 {
 #menu li {
     margin-right: 15px;
     margin-left: 3px;
-    font-size: 140%;
+    font-size: 125%;
 }
 
 a {
@@ -74,7 +74,7 @@ a:hover {
 
 /* header */
 header {
-    height: 75px;
+    height: 65px;
     background-color: rgba(43, 22, 97, 1);
     position: fixed;
     top: 0;
@@ -308,7 +308,7 @@ header {
 
 /* footer */
 footer {
-    height: 75px;
+    height: 65px;
     width: 100%;
     background-color: rgba(43, 22, 97, 1);
     left: 0;
@@ -318,7 +318,7 @@ footer {
 }
 
 #footer-links {
-    line-height: 75px;
+    line-height: 65px;
     list-style: none;
     display: flex;
     justify-content: center;
@@ -328,7 +328,7 @@ footer {
     display: flex;
     margin-right: 25px;
     margin-left: 3px;
-    font-size: 140%;
+    font-size: 125%;
     flex-direction: row;
 }
 
