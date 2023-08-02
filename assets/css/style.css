@@ -417,7 +417,7 @@ select, input {
 
 /* thank you form */
 #thank-you-hero-container {
-    height: 740px;
+    height: 800px;
     width: 100%;
     overflow: none;
     position: relative;
@@ -426,11 +426,17 @@ select, input {
 }
 
 #thank-you-hero-image {
-    height: 740px;
+    height: 800px;
     width: 100%;
     background-image: url('../images/thank-you-hero-image.webp');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+}
+
+/* thank you cover text */
+#thank-you-cover-text {
+    max-width: 400px;
+    background-color: rgba(11,65,111,0.9);
 }
