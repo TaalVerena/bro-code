@@ -380,6 +380,8 @@ footer {
 #user-details > input {
     background-color: rgba(255, 255, 255, 0.6);
     border-radius: 10px;
+    padding: 0.1%;
+    width: 45%;
 }
 
 .form-margin {
