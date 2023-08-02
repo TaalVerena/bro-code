@@ -47,7 +47,8 @@
     <!-- hero image -->
     <section id="form-hero-container">
         <div id="form-hero-image">
-            <h2 id="form-cover-text">Ready to warp into an epic universe of friendship and tech shenanigans? <hr>Jump through the coding portal and join the Bro Code Crew!
+            <h2 id="form-cover-text">Ready to warp into an epic universe of friendship and tech shenanigans?
+                <hr>Jump through the coding portal and join the Bro Code Crew!
             </h2>
         </div>
     </section>
@@ -60,45 +61,47 @@
 
                 <div id="user-details">
                     <label for="fname">First Name:</label><br>
-                    <input type="text" name="first_name" id="fname" placeholder="First Name" required><br>
+                    <input type="text" name="first_name" id="fname" placeholder="Your First Name" required><br>
 
                     <label for="lname">Last Name:</label><br>
-                    <input type="text" name="last_name" id="lname" placeholder="Last Name" required><br>
+                    <input type="text" name="last_name" id="lname" placeholder="Your Last Name" required><br>
 
                     <label for="email">Email:</label><br>
-                    <input type="email" name="email_address" id="email" placeholder="Email Address" required><br>
+                    <input type="email" name="email_address" id="email" placeholder="youremail@address.com" required><br>
                 </div>
 
-                <div>
-                <label for="location">Where is your home base?</label>
-                <select id="location" name="location">
-                    <option value="Clare">Clare</option>
-                    <option value="Cork">Cork</option>
-                    <option value="Kerry">Kerry</option>
-                    <option value="Limerick">Limerick</option>
-                    <option value="Tipperary">Tipperary</option>
-                    <option value="Waterford">Waterford</option>
-                </select> <br>
+                <div id="user-location">
+                    <label for="location">Where is your home base?</label>
+                    <select id="location" name="location">
+                        <option value="Clare">Clare</option>
+                        <option value="Cork">Cork</option>
+                        <option value="Kerry">Kerry</option>
+                        <option value="Limerick">Limerick</option>
+                        <option value="Tipperary">Tipperary</option>
+                        <option value="Waterford">Waterford</option>
+                    </select> <br>
                 </div>
 
-                <p>Which groups are you interested in? PS: You can always join more groups or change your mind.</p>
-                <input type="checkbox" name="group_preference" id="gamers" value="Gamers">
-                <label for="gamers">Gamers</label><br>
+                <div id="user-groups-selected">
+                    <p>Which groups are you interested in? PS: You can always join more groups or change your mind.</p>
+                    <input type="checkbox" name="group_preference" id="gamers" value="Gamers">
+                    <label for="gamers">Gamers</label><br>
 
-                <input type="checkbox" name="group_preference" id="java-beans" value="Java Beans">
-                <label for="java-beans">Java Beans</label><br>
+                    <input type="checkbox" name="group_preference" id="java-beans" value="Java Beans">
+                    <label for="java-beans">Java Beans</label><br>
 
-                <input type="checkbox" name="group_preference" id="bookclub" value="Bookclub">
-                <label for="bookclub">Bookclub</label><br>
+                    <input type="checkbox" name="group_preference" id="bookclub" value="Bookclub">
+                    <label for="bookclub">Bookclub</label><br>
 
-                <input type="checkbox" name="group_preference" id="adventurers" value="Adventurers">
-                <label for="adventurers">Adventurers</label><br>
+                    <input type="checkbox" name="group_preference" id="adventurers" value="Adventurers">
+                    <label for="adventurers">Adventurers</label><br>
 
-                <input type="checkbox" name="group_preference" id="game-knights" value="Game Knights">
-                <label for="game-knights">Game Knights</label><br>
+                    <input type="checkbox" name="group_preference" id="game-knights" value="Game Knights">
+                    <label for="game-knights">Game Knights</label><br>
 
-                <input type="checkbox" name="group_preference" id="community-code" value="Community Code">
-                <label for="community-code">Community Code</label><br>
+                    <input type="checkbox" name="group_preference" id="community-code" value="Community Code">
+                    <label for="community-code">Community Code</label><br>
+                </div>
 
                 <input type="submit" value="Sign Me Up, Bro!">
             </form>
