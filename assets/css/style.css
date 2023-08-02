@@ -432,16 +432,18 @@ select, input {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    position: relative;
 }
 
 /* thank you cover text */
 #thank-you-cover-text {
-    max-width: 400px;
+    max-width: 500px;
     background-color: rgba(11,65,111,0.9);
+    position: relative;
+    top: 5%;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+    border-radius: 10px;
 }
 
 #thank-you-cover-text > h2, h3 {
