@@ -416,3 +416,11 @@ select, input {
 }
 
 /* thank you form */
+#thank-you-hero-container {
+    height: 800px;
+    width: 100%;
+    overflow: none;
+    position: relative;
+    top: 0;
+    left: 0;
+}
