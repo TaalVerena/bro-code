@@ -277,14 +277,14 @@ header {
     color: #2d2942;
 }
 
-.meetups-links {
-    color: #071726;
+.meetups-link-maroon {
+    color: #2d2942;
     text-decoration: underline;
 }
 
-.meetups-links:hover {
-    color: rgba(43, 22, 97, 1);
-    text-shadow:none;
+.meetups-link-purple {
+    color: #2d2942;
+    text-decoration: underline;
 }
 
 /* about us */
