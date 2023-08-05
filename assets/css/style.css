@@ -279,12 +279,12 @@ header {
 
 .meetups-link-maroon {
     color: #2d2942;
-    text-decoration: underline;
+    text-decoration: underline #94176B;
 }
 
 .meetups-link-purple {
     color: #2d2942;
-    text-decoration: underline;
+    text-decoration: underline #422dc9;
 }
 
 /* about us */
