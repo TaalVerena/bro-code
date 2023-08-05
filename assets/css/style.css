@@ -277,6 +277,16 @@ header {
     color: #2d2942;
 }
 
+.meetups-links {
+    color: #071726;
+    text-decoration: underline;
+}
+
+.meetups-links:hover {
+    color: rgba(43, 22, 97, 1);
+    text-shadow:none;
+}
+
 /* about us */
 #about-us {
     background: rgb(11,65,111);
