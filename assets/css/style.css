@@ -388,6 +388,7 @@ footer {
     background-color: rgb(11,65,111);
     border-radius: 10px;
     padding: 0.5% 0;
+    text-align: center;
 }
 
 /* form */
