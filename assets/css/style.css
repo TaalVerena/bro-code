@@ -331,24 +331,27 @@ footer {
     height: 65px;
     width: 100%;
     background-color: rgba(43, 22, 97, 1);
-    left: 0;
     bottom: 0;
     position: fixed;
-    text-align: center;
 }
 
 #footer-links {
-    line-height: 65px;
+    height: 65px;
     list-style: none;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 #footer-links li {
     display: flex;
-    margin-right: 25px;
-    font-size: 135%;
-    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.socials-icons {
+    margin: 0 13px;
+    font-size: 200%;
 }
 
 /* form hero image */
