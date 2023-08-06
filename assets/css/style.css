@@ -348,9 +348,17 @@ footer {
     align-items: center;
 }
 
+#footer-links a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 140%;
+    margin: 0 10px;
+}
+
 .socials-icons {
-    margin: 0 13px;
-    font-size: 200%;
+    margin: 0 10px;
+    font-size: 140%;
 }
 
 #footer > p {
