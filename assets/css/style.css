@@ -287,6 +287,16 @@ header {
     text-decoration: underline #422dc9;
 }
 
+.meetups-link-maroon:hover {
+    color: #94176B;
+    text-shadow: 0 0 10px #94176B;
+}
+
+.meetups-link-purple:hover {
+    color: #422dc9;
+    text-shadow: 0 0 10px #422dc9;
+}
+
 /* about us */
 #about-us {
     background: rgb(11,65,111);
