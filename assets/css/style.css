@@ -442,7 +442,7 @@ select, input {
     font-size: 105%;
 }
 
-/* thank you form */
+/* thank you page */
 #thank-you-hero-container {
     height: 800px;
     width: 100%;
@@ -461,7 +461,7 @@ select, input {
     background-size: cover;
 }
 
-/* thank you cover text */
+/* thank you page cover text */
 #thank-you-cover-text {
     max-width: 35%;
     background-color: rgba(11,65,111,0.8);
@@ -475,6 +475,6 @@ select, input {
 
 #thank-you-cover-text > h2, h3 {
     color: white;
-    padding: 2%;
+    padding: 2.5%;
     line-height: 20px;
 }
