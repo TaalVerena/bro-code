@@ -354,6 +354,11 @@ footer {
     font-size: 200%;
 }
 
+#footer > p {
+    width: 100%;
+    text-align: center;
+}
+
 /* form hero image */
 #form-hero-container {
     height: 800px;
