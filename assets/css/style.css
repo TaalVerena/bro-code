@@ -347,7 +347,7 @@ footer {
 #footer-links li {
     display: flex;
     margin-right: 25px;
-    font-size: 125%;
+    font-size: 135%;
     flex-direction: row;
 }
 
