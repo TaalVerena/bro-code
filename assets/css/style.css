@@ -529,4 +529,8 @@ select, input {
     #meetups-container-image {
         gap: 0.75%;
     }
+
+    .meetups-title {
+        padding: 9% 6%;
+    }
 }
