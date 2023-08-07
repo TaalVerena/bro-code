@@ -387,6 +387,8 @@ footer {
     position: relative;
     display: flex;
     flex-direction: column;
+    padding: 1% 2%;
+    gap: 2%;
 }
 
 /* form cover text */
@@ -398,7 +400,6 @@ footer {
     border-radius: 10px;
     padding: 0.5%;
     text-align: center;
-    margin: 1% 2%;
 }
 
 /* form */
@@ -409,14 +410,20 @@ footer {
     background-color: rgba(148, 23, 107, 0.6);
     border-radius: 10px;
     padding: 0.5%;
-    margin: 1% 2%;
     font-size: 125%;
+}
+
+form {
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
 }
 
 #form-heading {
     color: white;
     padding: 1%;
     margin-bottom: 0.5%;
+    text-align: center;
 }
 
 #user-details > input {
