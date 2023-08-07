@@ -492,10 +492,18 @@ select, input {
     flex-direction: column;
     justify-content: center;
     margin: 18px 50px;
+    box-shadow: 5px 5px #2b1661;
 }
 
-#thank-you-cover-text > h2, h3 {
+#thank-you-cover-text > h2 {
     color: white;
     position: relative;
-    padding: 12px 40px;
+    padding: 10px 40px;
+}
+
+#thank-you-cover-text > p {
+    color: white;
+    position: relative;
+    padding: 10px 40px;
+    font-size: 125%;
 }
