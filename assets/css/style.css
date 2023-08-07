@@ -153,8 +153,8 @@ header {
 }
 
 .groups-title {
-    width: 120px;
-    height: 120px;
+    width: 200px;
+    height: 200px;
     border-radius: 10%;
     display: flex;
     justify-content: center;
@@ -162,6 +162,7 @@ header {
     text-align: center;
     margin: 20px 60px;
     font-size: 150%;
+    line-height: 40px;
 }
 
 .box-maroon {
