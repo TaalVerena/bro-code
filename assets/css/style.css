@@ -388,6 +388,19 @@ footer {
 }
 
 /* form cover text */
+#form-section {
+    display: flex;
+    color: white;
+    max-width: 45%;
+    position: absolute;
+    top: 17%;
+    left: 2%;
+    font-size: 125%;
+    background-color: rgba(148, 23, 107, 0.6);
+    border-radius: 10px;
+    padding-left: 1%;
+}
+
 #form-cover-text {
     color: white;
     width: 45%;
@@ -401,23 +414,9 @@ footer {
 }
 
 /* form */
-
 #form-heading {
     color: white;
     padding: 1%;
-}
-
-#form-section {
-    display: flex;
-    color: white;
-    max-width: 45%;
-    position: absolute;
-    top: 21%;
-    left: 2%;
-    font-size: 125%;
-    background-color: rgba(148, 23, 107, 0.6);
-    border-radius: 10px;
-    padding-left: 1%;
 }
 
 #user-details > input {
