@@ -508,3 +508,18 @@ select, input {
     padding: 10px 40px;
     font-size: 125%;
 }
+
+/* media queries */
+@media screen and (max-width: 1200px) { 
+    #hero-container, #hero-image {
+        height: 570px;
+    }
+
+    #cover-text {
+        right: 1%;
+        bottom: 15%;
+        width: 300px;
+        font-size: 145%;
+    }
+
+}
