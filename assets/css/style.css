@@ -526,4 +526,7 @@ select, input {
         margin: 20px 30px;
     }
 
+    #meetups-container-image {
+        gap: 0.75%;
+    }
 }
