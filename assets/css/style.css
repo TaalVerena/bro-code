@@ -389,7 +389,6 @@ footer {
 
 /* form cover text */
 #form-cover-text {
-    display: flex;
     color: white;
     width: 45%;
     position: absolute;
