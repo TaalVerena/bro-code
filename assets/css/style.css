@@ -387,7 +387,7 @@ footer {
     position: relative;
     display: flex;
     flex-direction: column;
-    padding: 1% 2%;
+    padding: 1% 0;
     gap: 2%;
 }
 
@@ -400,6 +400,7 @@ footer {
     border-radius: 10px;
     padding: 0.5%;
     text-align: center;
+    margin: 0 50px;
 }
 
 /* form */
@@ -411,6 +412,7 @@ footer {
     border-radius: 10px;
     padding: 0.5%;
     font-size: 125%;
+    margin: 0 50px;
 }
 
 form {
