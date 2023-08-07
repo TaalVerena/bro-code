@@ -389,6 +389,7 @@ footer {
 
 /* form cover text */
 #form-cover-text {
+    display: flex;
     color: white;
     width: 45%;
     position: absolute;
@@ -411,6 +412,7 @@ form {
 }
 
 #form-section {
+    display: flex;
     color: white;
     max-width: 45%;
     position: absolute;
