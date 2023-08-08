@@ -551,4 +551,12 @@ select, input {
     #form-heading {
         font-size: 150%;
     }
+
+    form {
+        gap: 1.5%;
+    }
+
+    #submit {
+        margin-top: 1%;
+    }
 }
