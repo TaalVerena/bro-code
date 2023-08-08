@@ -520,7 +520,7 @@ select, input {
 }
 
 /* media queries */
-@media screen and (max-width: 1200px) { 
+@media screen and (max-width: 1210px) { 
     #hero-container, #hero-image {
         height: 570px;
     }
