@@ -244,6 +244,7 @@ header {
     justify-items: center;
     flex-direction: column;
     border-radius: 10px;
+    position: relative;
 }
 
 .meetups-title {
@@ -531,10 +532,19 @@ select, input {
     }
 
     .meetups-title {
-        padding: 9% 6%;
+        padding: 4%;
     }
 
     .meetups-details > h4 {
-        padding: 0 17% 4% 17%;
+        padding: 0 17% 2% 17%;
+        line-height: 32px;
+    }
+
+    #meetups-last-p {
+        margin-top: 32.5px;
+    }
+
+    #form-hero-container, #form-hero-image {
+        height: 700px;
     }
 }
