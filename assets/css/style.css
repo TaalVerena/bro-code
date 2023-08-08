@@ -543,32 +543,26 @@ select, input {
 
     #meetups-container-image {
         flex-direction: column;
+        gap: 0.5%;
     }
 
     #first-two-meetups, #second-two-meetups {
         width: 100%;
         height: 50%;
-    }
-
-    #meetups-container-image {
-        gap: 0.5%;
-    }
-    
-    #first-two-meetups, #second-two-meetups {
         gap: 1%;
     }
 
     .meetups-title {
-        padding: 4%;
+        padding: 1.5% 3% 1% 3%;
     }
 
     .meetups-details > h4 {
-        padding: 0 17% 2% 17%;
+        padding: 0 3% 1% 3%;
         line-height: 32px;
     }
 
-    #meetups-last-p {
-        margin-top: 32.5px;
+    .meetups-details p{
+        padding: 0 3% 1% 3%;
     }
 
     #form-hero-container, #form-hero-image {
