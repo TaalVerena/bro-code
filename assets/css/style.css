@@ -559,4 +559,8 @@ select, input {
     #submit {
         margin-top: 1%;
     }
+
+    #user-location {
+        margin-bottom: 1.5%;
+    }
 }
