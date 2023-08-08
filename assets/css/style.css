@@ -547,4 +547,8 @@ select, input {
     #form-hero-container, #form-hero-image {
         height: 700px;
     }
+
+    #form-heading {
+        font-size: 150%;
+    }
 }
