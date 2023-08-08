@@ -542,7 +542,11 @@ select, input {
     }
 
     #meetups-container-image {
-        gap: 0.75%;
+        gap: 0.5%;
+    }
+    
+    #first-two-meetups, #second-two-meetups {
+        gap: 1%;
     }
 
     .meetups-title {
@@ -589,8 +593,4 @@ select, input {
     #thank-you-cover-text > p {
         padding: 6px 40px;
     }
-}
-
-@media screen and (max-width: 1200px) { 
-
 }
