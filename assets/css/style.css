@@ -549,6 +549,7 @@ select, input {
         height: 600px;
         flex-direction: column;
         gap: 0.5%;
+        padding: 20px;
     }
 
     #first-two-meetups, #second-two-meetups {
