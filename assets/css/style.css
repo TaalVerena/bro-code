@@ -222,7 +222,7 @@ header {
 }
 
 #meetups-container-image {
-    height: 550px;
+    height: 500px;
     padding: 0 10px;
     background-image: url('../images/meetups-image.webp');
     background-repeat: no-repeat;
