@@ -311,7 +311,6 @@ header {
 #about-us {
     background: rgb(11,65,111);
     background: linear-gradient(180deg, rgba(11,65,111,1) 0%, rgba(27,11,74,1) 100%);
-    padding-bottom: 30px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -331,6 +330,7 @@ header {
 #about-us-info {
     border-left: 6px solid #422dc9;
     border-right: 6px solid #422dc9;
+    margin: 0 20px 30px 20px;
 }
 
 #about-us-info > p {
