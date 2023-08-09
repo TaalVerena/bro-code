@@ -223,7 +223,7 @@ header {
 
 #meetups-container-image {
     height: 500px;
-    padding: 0 10px;
+    padding: 0 20px;
     background-image: url('../images/meetups-image.webp');
     background-repeat: no-repeat;
     background-size: cover;
