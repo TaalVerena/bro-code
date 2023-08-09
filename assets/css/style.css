@@ -548,7 +548,7 @@ select, input {
     #meetups-container-image {
         height: 600px;
         flex-direction: column;
-        gap: 0.5%;
+        gap: 2%;
         padding: 20px;
     }
 
