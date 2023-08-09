@@ -328,15 +328,16 @@ header {
     text-align: center;
 }
 
-#about-us > p {
-    text-align: center;
-    font-size: 125%;
-    margin: 0px 20px 25px 20px;
-    max-width: 1100px;
+#about-us-info {
+    border-left: 6px solid #422dc9;
+    border-right: 6px solid #422dc9;
 }
 
-#about-us #bottom-paragraph {
-    margin-bottom: 0;
+#about-us-info > p {
+    text-align: center;
+    font-size: 125%;
+    margin: 20px 40px;
+    max-width: 1100px;
 }
 
 /* footer */
