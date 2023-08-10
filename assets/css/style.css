@@ -628,7 +628,12 @@ select, input {
     #thank-you-cover-text {
         max-height: 300px;
     }
+    #thank-you-cover-text > h2, #thank-you-cover-text > p {
+        font-size: 130%;
+    }
 }
+
+
 
 @media screen and (max-width: 580px) {
     #form-cover-text, #form-heading{
