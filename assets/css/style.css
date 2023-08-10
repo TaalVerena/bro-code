@@ -628,4 +628,16 @@ select, input {
     #form-cover-text, #form-heading{
         font-size: 130%;
     }
+
+    #user-details > input {
+        width: 80%;
+    }
+
+    select, input {
+        font-size: 90%;
+    }
+
+    #submit {
+        font-size: 100%;
+    }
 }
