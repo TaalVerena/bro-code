@@ -590,10 +590,6 @@ select, input {
         margin-bottom: 1.5%;
     }
 
-    #thank-you-hero-container, #thank-you-hero-image {
-        height: 700px;
-    }
-
     #thank-you-cover-text > h2 {
         padding: 7px 40px;
     }
