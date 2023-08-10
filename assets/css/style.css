@@ -602,3 +602,25 @@ select, input {
         padding: 6px 40px;
     }
 }
+
+@media screen and (max-width: 989px) {
+    #form-hero-container, #form-hero-image {
+        height: 800px;
+    }
+    #form-hero-image {
+        gap: 0;
+        padding: 0;
+    }
+
+    #form-cover-text {
+        margin: 15px 10px 10px 10px;
+ 
+        max-width: 950px;
+    }
+
+    #form-section {
+        margin: 10px;
+        max-width: 950px;
+    }
+
+}
