@@ -621,6 +621,14 @@ select, input {
 }
 
 @media screen and (max-width: 810px) {
+    html {
+        scroll-padding-top: 110px;
+    }
+
+    body {
+        padding-top: 100px;
+    }
+
     header {
         height: 100px;
         display: flex;
@@ -638,7 +646,6 @@ select, input {
         justify-content: center;
         line-height: 20px;
     }
-
 }
 
 @media screen and (max-width: 650px) {
