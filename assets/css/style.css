@@ -655,4 +655,7 @@ select, input {
     #thank-you-cover-text h2, #thank-you-cover-text p {
         padding: 6px;
     }
+    #thank-you-cover-text {
+        margin: 10px;
+    }
 }
