@@ -633,8 +633,6 @@ select, input {
     }
 }
 
-
-
 @media screen and (max-width: 580px) {
     #form-cover-text, #form-heading{
         font-size: 130%;
@@ -650,5 +648,11 @@ select, input {
 
     #submit {
         font-size: 100%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    #thank-you-cover-text h2, #thank-you-cover-text p {
+        padding: 6px;
     }
 }
