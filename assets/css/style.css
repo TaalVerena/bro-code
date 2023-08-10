@@ -614,7 +614,6 @@ select, input {
 
     #form-cover-text {
         margin: 15px 10px 10px 10px;
- 
         max-width: 950px;
     }
 
@@ -623,4 +622,10 @@ select, input {
         max-width: 950px;
     }
 
+}
+
+@media screen and (max-width: 580px) {
+    #form-cover-text, #form-heading{
+        font-size: 130%;
+    }
 }
