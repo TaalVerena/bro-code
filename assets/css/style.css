@@ -654,4 +654,10 @@ select, input {
     #thank-you-cover-text {
         margin: 10px;
     }
+    .social-name{
+        display: none;
+    }
+    #footer > p {
+        font-size: 70%;
+    }
 }
