@@ -728,6 +728,14 @@ select, input {
         height: 400px;
     }
 
+    #thank-you-background-container, #thank-you-background-image {
+        height: 750px;
+    }
+
+    #thank-you-background-image {
+        background-image: url(../images/thank-you-background-image-medium.webp);
+    }
+
     #thank-you-cover-text .thank-you-welcome-text, #thank-you-cover-text p {
         padding: 6px;
     }
