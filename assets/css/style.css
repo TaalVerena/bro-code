@@ -112,10 +112,16 @@ header {
     line-height: 35px;
     border-radius: 10px 0 0 10px;
     background: rgba(28,9,73,0.6);
+    animation: fadeIn 6s;
 }
 
 #cover-text p {
     padding: 1.25% 2.5%;
+}
+
+@keyframes fadeIn {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
 }
 
 /* groups */
