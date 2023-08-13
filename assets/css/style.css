@@ -103,15 +103,14 @@ header {
 
 /* cover text */
 #cover-text {
-    right: 8%;
-    bottom: 10%;
-    width: 300px;
+    right: 0;
+    bottom: 0;
+    width: 520px;
     position: absolute;
     text-align: center;
     font-size: 155%;
     line-height: 35px;
-    color: #14e0e0;
-    text-shadow: 0 0 20px #79ffff;
+    border-radius: 10px 0 0 10px;
 }
 
 /* groups */
