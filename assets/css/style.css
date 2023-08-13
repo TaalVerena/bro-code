@@ -751,6 +751,10 @@ select, input {
         background-image: url('../images/hero-image-small.webp');
     }
 
+    #form-background-image {
+        background-image: url(../images/join-background-image-small.webp);
+    }
+
     #thank-you-cover-text {
         margin: 12px 10px;
         padding: 2px 5px;
