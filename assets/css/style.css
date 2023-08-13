@@ -603,6 +603,7 @@ select, input {
     #form-hero-container, #form-hero-image {
         height: 800px;
     }
+    
     #form-hero-image {
         gap: 0;
         padding: 0;
