@@ -554,12 +554,12 @@ select, input {
     }
 
     .groups-title {
-        margin: 20px;
+        margin: 10px;
     }
 
     .groups-paragraph-container {
         width: 750px;
-        margin: 20px;
+        margin: 10px;
     }
 
     #meetups-container-image {
