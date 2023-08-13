@@ -676,6 +676,10 @@ select, input {
 }
 
 @media screen and (max-width: 580px) {
+    #hero-container, #hero-image {
+        height: 440px;
+    }
+
     #form-cover-text, #form-heading {
         font-size: 130%;
     }
