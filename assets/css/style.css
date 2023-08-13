@@ -677,6 +677,15 @@ select, input {
     #submit {
         font-size: 100%;
     }
+
+    #thank-you-cover-text {
+        max-height: 320px;
+        padding: 2px 10px;
+    }
+
+    #thank-you-cover-text .thank-you-welcome-text, #thank-you-cover-text p {
+        padding: 5px 20px;
+    }
 }
 
 @media screen and (max-width: 480px) {
