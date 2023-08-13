@@ -807,6 +807,14 @@ select, input {
         background-image: url('../images/hero-image-small.webp');
     }
 
+    #cover-text {
+        width: 300px;
+    }
+
+    #cover-text p {
+        font-size: 78%;
+    }
+
     #form-background-image {
         background-image: url(../images/join-background-image-small.webp);
     }
