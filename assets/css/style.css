@@ -665,6 +665,10 @@ select, input {
 }
 
 @media screen and (max-width: 700px) {
+    #hero-container, #hero-image {
+        height: 475px;
+    }
+
     #thank-you-cover-text {
         max-height: 280px;
         padding: 2px 20px;
