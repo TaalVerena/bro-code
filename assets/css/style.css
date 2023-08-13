@@ -689,6 +689,10 @@ select, input {
 }
 
 @media screen and (max-width: 480px) {
+    #logo {
+        font-size: 250%;
+    }
+    
     #menu li {
         margin: 1px 10px;
         font-size: 130%;
