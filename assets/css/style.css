@@ -689,6 +689,11 @@ select, input {
 }
 
 @media screen and (max-width: 480px) {
+    #menu li {
+        margin: 1px 15px;
+        font-size: 130%;
+    }
+
     #thank-you-cover-text .thank-you-welcome-text, #thank-you-cover-text p {
         padding: 6px;
     }
