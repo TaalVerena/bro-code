@@ -689,7 +689,7 @@ select, input {
 }
 
 @media screen and (max-width: 480px) {
-    #thank-you-cover-text h2, #thank-you-cover-text p {
+    #thank-you-cover-text .thank-you-welcome-text, #thank-you-cover-text p {
         padding: 6px;
     }
 
@@ -699,5 +699,20 @@ select, input {
 
     .social-name {
         display: none;
+    }
+}
+
+@media screen and (max-width: 370px) {
+    #thank-you-cover-text {
+        padding: 2px 5px;
+    }
+    
+    #thank-you-cover-text .thank-you-welcome-text {
+        padding: 5px;
+        font-size: 145%;
+    }
+
+    #thank-you-cover-text {
+        padding: 5px;
     }
 }
