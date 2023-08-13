@@ -621,6 +621,12 @@ select, input {
 
 }
 
+@media screen and (max-width: 910px) {
+    #hero-image {
+        background-image: url('../images/hero-image-medium.webp');
+    }
+}
+
 @media screen and (max-width: 810px) {
     html {
         scroll-padding-top: 110px;
