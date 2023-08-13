@@ -381,8 +381,8 @@ footer {
     text-align: center;
 }
 
-/* form hero image */
-#form-hero-container {
+/* form background image */
+#form-background-container {
     height: 800px;
     width: 100%;
     overflow: none;
@@ -391,10 +391,10 @@ footer {
     left: 0;
 }
 
-#form-hero-image {
+#form-background-image {
     height: 800px;
     width: 100%;
-    background-image: url('../images/join-hero-image.webp');
+    background-image: url('../images/join-background-image.webp');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -472,7 +472,7 @@ select, input {
 }
 
 /* thank you page */
-#thank-you-hero-container {
+#thank-you-background-container {
     height: 800px;
     width: 100%;
     overflow: none;
@@ -481,17 +481,17 @@ select, input {
     left: 0;
 }
 
-#thank-you-hero-image {
+#thank-you-background-image {
     height: 800px;
     width: 100%;
-    background-image: url('../images/thank-you-hero-image.webp');
+    background-image: url('../images/thank-you-background-image.webp');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 /* thank you page cover text */
-#thank-you-hero-image {
+#thank-you-background-image {
     display: flex;
     justify-content: center;
 }
@@ -569,7 +569,7 @@ select, input {
         line-height: 32px;
     }
 
-    #form-hero-container, #form-hero-image {
+    #form-background-container, #form-background-image {
         height: 700px;
     }
 
@@ -599,11 +599,11 @@ select, input {
 }
 
 @media screen and (max-width: 989px) {
-    #form-hero-container, #form-hero-image {
+    #form-background-container, #form-background-image {
         height: 800px;
     }
 
-    #form-hero-image {
+    #form-background-image {
         gap: 0;
         padding: 0;
     }
