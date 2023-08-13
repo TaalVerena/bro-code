@@ -693,8 +693,4 @@ select, input {
     .social-name {
         display: none;
     }
-
-    #footer > p {
-        font-size: 70%;
-    }
 }
