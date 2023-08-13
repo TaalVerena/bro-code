@@ -716,6 +716,16 @@ select, input {
         height: 440px;
     }
 
+    #cover-text {
+        width: 400px;
+        padding: 1%;
+    }
+
+    #cover-text p {
+        font-size: 87%;
+        padding: 1% 2%;
+    }
+
     #form-cover-text, #form-heading {
         font-size: 130%;
     }
