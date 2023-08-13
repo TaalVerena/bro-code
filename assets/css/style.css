@@ -640,11 +640,16 @@ select, input {
         text-align: center;
         margin-left: 0;
     }
+
     #menu {
         display: flex;
         align-items: center;
         justify-content: center;
         line-height: 20px;
+    }
+
+    #menu li {
+        margin: 0 10px;
     }
 }
 
