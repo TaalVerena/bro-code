@@ -766,6 +766,16 @@ select, input {
         height: 400px;
     }
 
+    #cover-text {
+        width: 350px;
+        padding: 0.5%;
+    }
+
+    #cover-text p {
+        font-size: 83%;
+        padding: 0.5% 2%;
+    }
+
     #thank-you-background-image {
         background-image: url(../images/thank-you-background-image-medium.webp);
     }
