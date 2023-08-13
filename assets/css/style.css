@@ -686,6 +686,16 @@ select, input {
     }
 }
 
+@media screen and (max-width: 760px) {
+    #cover-text {
+        width: 450px;
+    }
+
+    #cover-text p {
+        font-size: 90%;
+    }
+}
+
 @media screen and (max-width: 700px) {
     #hero-container, #hero-image {
         height: 475px;
