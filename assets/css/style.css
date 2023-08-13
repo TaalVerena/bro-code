@@ -512,14 +512,14 @@ select, input {
 #thank-you-cover-text .thank-you-welcome-text {
     color: white;
     position: relative;
-    padding: 10px 40px;
+    padding: 8px 40px;
     font-size: 150%;
 }
 
 #thank-you-cover-text > p {
     color: white;
     position: relative;
-    padding: 10px 40px;
+    padding: 8px 40px;
     font-size: 125%;
 }
 
@@ -590,11 +590,11 @@ select, input {
         margin-bottom: 1.5%;
     }
 
-    #thank-you-cover-text > h2 {
+    #thank-you-cover-text .thank-you-welcome-text {
         padding: 7px 40px;
     }
 
-    #thank-you-cover-text > p {
+    #thank-you-cover-text {
         padding: 6px 40px;
     }
 }
@@ -654,13 +654,10 @@ select, input {
     }
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 700px) {
     #thank-you-cover-text {
-        max-height: 300px;
-    }
-
-    #thank-you-cover-text > h2, #thank-you-cover-text > p {
-        font-size: 130%;
+        max-height: 280px;
+        padding: 2px 20px;
     }
 }
 
