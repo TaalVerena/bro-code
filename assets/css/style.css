@@ -560,13 +560,13 @@ select, input {
         padding: 1.5% 3%;
     }
 
-    .meetups-details > h4 {
-        padding: 0 3% 1% 3%;
-        line-height: 32px;
+    .meetups-details > p {
+        padding: 1.25% 3%;
     }
 
-    .meetups-details > p{
-        padding: 1.25% 3%;
+    .meetups-details .meetups-location {
+        padding: 0 3% 1% 3%;
+        line-height: 32px;
     }
 
     #form-hero-container, #form-hero-image {
@@ -657,13 +657,14 @@ select, input {
     #thank-you-cover-text {
         max-height: 300px;
     }
+
     #thank-you-cover-text > h2, #thank-you-cover-text > p {
         font-size: 130%;
     }
 }
 
 @media screen and (max-width: 580px) {
-    #form-cover-text, #form-heading{
+    #form-cover-text, #form-heading {
         font-size: 130%;
     }
 
@@ -684,12 +685,15 @@ select, input {
     #thank-you-cover-text h2, #thank-you-cover-text p {
         padding: 6px;
     }
+
     #thank-you-cover-text {
         margin: 10px;
     }
-    .social-name{
+
+    .social-name {
         display: none;
     }
+
     #footer > p {
         font-size: 70%;
     }
