@@ -540,6 +540,15 @@ select, input {
         height: 570px;
     }
 
+    #cover-text {
+        width: 300px;
+        padding: 1% 2%;
+    }
+
+    #cover-text p {
+        padding: 1.5% 2.5%;
+    }
+
     #cover-text p {
         font-size: 95%;
     }
