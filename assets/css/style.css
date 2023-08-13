@@ -704,6 +704,7 @@ select, input {
 
 @media screen and (max-width: 370px) {
     #thank-you-cover-text {
+        margin: 12px 10px;
         padding: 2px 5px;
     }
     
