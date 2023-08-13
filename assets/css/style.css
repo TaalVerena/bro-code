@@ -833,3 +833,15 @@ select, input {
         padding: 5px;
     }
 }
+
+@media screen and (max-width: 350px) {
+    #cover-text {
+        width: 280px;
+    }
+
+    #cover-text p {
+        font-size: 75%;
+        padding: 0.3% 1%;
+        line-height: 30px;
+    }
+}
