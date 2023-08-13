@@ -692,7 +692,7 @@ select, input {
     #logo {
         font-size: 250%;
     }
-    
+
     #menu li {
         margin: 1px 10px;
         font-size: 130%;
@@ -712,6 +712,15 @@ select, input {
 }
 
 @media screen and (max-width: 370px) {
+    #logo {
+        font-size: 230%;
+    }
+    
+    #menu li {
+        margin: 1px 7px;
+        font-size: 110%;
+    }
+
     #thank-you-cover-text {
         margin: 12px 10px;
         padding: 2px 5px;
