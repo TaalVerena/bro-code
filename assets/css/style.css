@@ -509,10 +509,11 @@ select, input {
     box-shadow: 5px 5px #2b1661;
 }
 
-#thank-you-cover-text > h2 {
+#thank-you-cover-text .thank-you-welcome-text {
     color: white;
     position: relative;
     padding: 10px 40px;
+    font-size: 150%;
 }
 
 #thank-you-cover-text > p {
