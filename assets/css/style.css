@@ -110,10 +110,10 @@ header {
     text-align: center;
     font-size: 155%;
     line-height: 35px;
-    border-radius: 10px 0 0 10px;
-    padding: 0.5%;
-    background: linear-gradient(180deg, rgba(28,9,73,0.75) 0%, rgba(11,65,111,0.75) 100%);
-    animation: fadeIn 6s;
+    border-radius: 15px 0 0 15px;
+    padding: 1% 0.5%;
+    background: linear-gradient(180deg, rgba(28,9,73,0.85) 20%, rgba(11,65,111,0.85) 100%);
+    animation: fadeIn 7s;
 }
 
 #cover-text p {
