@@ -540,10 +540,6 @@ select, input {
         height: 570px;
     }
 
-    #cover-text {
-        width: 400px;
-    }
-
     #cover-text p {
         font-size: 95%;
     }
