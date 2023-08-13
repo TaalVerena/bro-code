@@ -114,6 +114,10 @@ header {
     background: rgba(28,9,73,0.6);
 }
 
+#cover-text p {
+    padding: 1.25% 2.5%;
+}
+
 /* groups */
 #groups {
     background: rgb(28,9,73);
