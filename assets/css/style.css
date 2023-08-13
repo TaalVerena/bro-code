@@ -273,18 +273,17 @@ header {
     color: #94176B;
 }
 
-.meetups-details > h4 {
-    padding-bottom: 4%;
-    line-height: 20px;
-    font-size: 128%;
-    color: #2d2942;
-}
-
 .meetups-details > p {
     padding: 2%;
     line-height: 30px;
     font-size: 125%;
     color: #2d2942;
+}
+
+.meetups-details .meetups-location {
+    padding-bottom: 4%;
+    line-height: 20px;
+    font-size: 128%;
 }
 
 .meetups-link-maroon {
@@ -603,7 +602,7 @@ select, input {
     #form-hero-container, #form-hero-image {
         height: 800px;
     }
-    
+
     #form-hero-image {
         gap: 0;
         padding: 0;
