@@ -669,6 +669,10 @@ select, input {
         height: 475px;
     }
 
+    #form-background-image {
+        background-image: url(../images/join-background-image-medium.webp);
+    }
+
     #thank-you-cover-text {
         max-height: 280px;
         padding: 2px 20px;
