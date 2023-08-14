@@ -805,6 +805,12 @@ select, input {
     }
 }
 
+@media screen and (max-width: 610px) {
+    #first-two-meetups, #second-two-meetups {
+        flex-direction: column;
+    }
+}
+
 @media screen and (max-width: 580px) {
     #hero-container, #hero-image {
         height: 440px;
