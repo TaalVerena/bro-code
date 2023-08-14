@@ -808,6 +808,15 @@ select, input {
 @media screen and (max-width: 610px) {
     #first-two-meetups, #second-two-meetups {
         flex-direction: column;
+        align-items: center;
+    }
+
+    .meetups-details {
+        width: 550px;
+    }
+
+    #about-us-info {
+        width: 538px;
     }
 }
 
