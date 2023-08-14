@@ -635,6 +635,10 @@ select, input {
         padding: 5px;
     }
 
+    #meetups-container-image {
+        height: 650px;
+    }
+
     #form-background-container, #form-background-image {
         height: 800px;
     }
