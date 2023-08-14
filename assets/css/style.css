@@ -547,9 +547,6 @@ select, input {
 
     #cover-text p {
         padding: 1.5% 2.5%;
-    }
-
-    #cover-text p {
         font-size: 95%;
     }
 
@@ -560,6 +557,12 @@ select, input {
     .groups-paragraph-container {
         width: 750px;
         margin: 10px;
+    }
+
+    .groups-paragraph-container > p {
+        width: 750px;
+        margin: 10px;
+        padding: 15px 10px;
     }
 
     #meetups-container-image {
@@ -617,6 +620,16 @@ select, input {
 }
 
 @media screen and (max-width: 989px) {
+    .groups-title {
+        margin: 6px;
+    }
+
+    .groups-paragraph-container > p{
+        width: 600px;
+        margin: 6px;
+        padding: 5px;
+    }
+
     #form-background-container, #form-background-image {
         height: 800px;
     }
