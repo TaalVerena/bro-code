@@ -772,8 +772,23 @@ select, input {
     }
 
     #meetups-container-image {
-        gap: 1.5%;
-        padding: 10px;
+        gap: 1%;
+        padding: 7px;
+    }
+
+    .meetups-details > p {
+        padding: 1%;
+        font-size: 120%;
+        line-height: 28px;
+    }
+
+    .meetups-title {
+        font-size: 140%;
+    }
+
+    .meetups-details .meetups-location {
+        padding-bottom: 2%;
+        font-size: 125%;
     }
 
     #hero-container, #hero-image {
