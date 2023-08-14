@@ -1001,7 +1001,11 @@ select, input {
         line-height: 30px;
     }
 
-    .groups-title, .groups-paragraph-container, .groups-paragraph-container > p {
+    .groups-title, .groups-paragraph-container, .groups-paragraph-container > p, .meetups-details {
         width: 310px;
+    }
+
+    #meetups-container-image {
+        height: 1300px;
     }
 }
