@@ -809,15 +809,18 @@ select, input {
     #first-two-meetups, #second-two-meetups {
         flex-direction: column;
         align-items: center;
+        gap: 0;
     }
 
     #meetups-container-image {
         padding: 10px 6px;
+        height: 1200px;
+        gap: 0;
     }
 
     .meetups-details {
         width: 550px;
-        margin: 5px;
+        margin: 6px 15px;
     }
 
     #about-us-info {
