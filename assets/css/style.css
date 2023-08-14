@@ -732,7 +732,11 @@ select, input {
     }
 
     .groups-paragraph-container, .groups-paragraph-container > p {
-        width: 450px;
+        width: 500px;
+    }
+
+    .groups-paragraph-container > p {
+        font-size: 120%;
     }
 }
 
