@@ -746,6 +746,18 @@ select, input {
         align-items: center;
     }
 
+    .groups-title {
+        width: 550px;
+        height: 50px;
+        font-size: 140%;
+        line-height: 25px;
+        border-radius: 10px;
+    }
+
+    .groups-br {
+        display: none;
+    }
+
     #hero-container, #hero-image {
         height: 475px;
     }
