@@ -659,6 +659,13 @@ select, input {
     #cover-text {
         width: 500px;
     }
+
+    .groups-title {
+        width: 180px;
+        height: 180px;
+        font-size: 145%;
+        line-height: 35px;
+    }
 }
 
 @media screen and (max-width: 810px) {
