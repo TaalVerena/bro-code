@@ -629,7 +629,7 @@ select, input {
         width: 650px;
     }
 
-    .groups-paragraph-container > p{
+    .groups-paragraph-container > p {
         width: 650px;
         margin: 6px;
         padding: 5px;
@@ -670,6 +670,10 @@ select, input {
         height: 180px;
         font-size: 145%;
         line-height: 35px;
+    }
+
+    .groups-paragraph-container, .groups-paragraph-container > p {
+        width: 600px;
     }
 }
 
