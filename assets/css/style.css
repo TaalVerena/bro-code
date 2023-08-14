@@ -894,6 +894,10 @@ select, input {
         font-size: 78%;
     }
 
+    .groups-title, .groups-paragraph-container, .groups-paragraph-container > p {
+        width: 330px;
+    }
+
     #form-background-image {
         background-image: url(../images/join-background-image-small.webp);
     }
@@ -922,5 +926,9 @@ select, input {
         font-size: 75%;
         padding: 0.3% 1%;
         line-height: 30px;
+    }
+
+    .groups-title, .groups-paragraph-container, .groups-paragraph-container > p {
+        width: 310px;
     }
 }
