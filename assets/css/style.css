@@ -811,8 +811,13 @@ select, input {
         align-items: center;
     }
 
+    #meetups-container-image {
+        padding: 10px 6px;
+    }
+
     .meetups-details {
         width: 550px;
+        margin: 5px;
     }
 
     #about-us-info {
