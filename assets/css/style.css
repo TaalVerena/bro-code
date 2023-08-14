@@ -882,6 +882,12 @@ select, input {
     }
 }
 
+@media screen and (max-width: 530px) {
+    .meetups-details {
+        width: 460px;
+    }
+}
+
 @media screen and (max-width: 480px) {
     #logo {
         font-size: 250%;
