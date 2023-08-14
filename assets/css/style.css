@@ -851,6 +851,10 @@ select, input {
         padding: 0.5% 2%;
     }
 
+    .groups-title, .groups-paragraph-container,  .groups-paragraph-container > p {
+        width: 380px;
+    }
+
     #thank-you-background-image {
         background-image: url(../images/thank-you-background-image-medium.webp);
     }
