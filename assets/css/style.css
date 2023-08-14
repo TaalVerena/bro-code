@@ -730,6 +730,10 @@ select, input {
     #cover-text p {
         font-size: 90%;
     }
+
+    .groups-paragraph-container, .groups-paragraph-container > p {
+        width: 450px;
+    }
 }
 
 @media screen and (max-width: 700px) {
