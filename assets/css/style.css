@@ -852,6 +852,10 @@ select, input {
         width: 440px;
     }
 
+    .meetups-details {
+        width: 500px;
+    }
+
     #form-cover-text, #form-heading {
         font-size: 130%;
     }
