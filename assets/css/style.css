@@ -852,8 +852,13 @@ select, input {
         width: 440px;
     }
 
-    .meetups-details {
+    .meetups-details, #about-us-info {
         width: 500px;
+    }
+
+    #about-us-info > p {
+        margin: 20px 10px;
+        max-width: 500px;
     }
 
     #form-cover-text, #form-heading {
