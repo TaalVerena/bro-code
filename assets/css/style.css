@@ -620,12 +620,17 @@ select, input {
 }
 
 @media screen and (max-width: 989px) {
-    .groups-title, .groups-paragraph-container {
+    .groups-title {
         margin: 6px;
     }
 
+    .groups-paragraph-container {
+        margin: 6px;
+        width: 650px;
+    }
+
     .groups-paragraph-container > p{
-        width: 600px;
+        width: 650px;
         margin: 6px;
         padding: 5px;
     }
