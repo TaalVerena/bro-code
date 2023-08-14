@@ -620,7 +620,7 @@ select, input {
 }
 
 @media screen and (max-width: 989px) {
-    .groups-title {
+    .groups-title, .groups-paragraph-container {
         margin: 6px;
     }
 
