@@ -758,6 +758,11 @@ select, input {
         display: none;
     }
 
+    .groups-paragraph-container {
+        margin-top: 10px;
+        margin-bottom: 15px;
+    }
+
     #hero-container, #hero-image {
         height: 475px;
     }
