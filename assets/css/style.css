@@ -792,6 +792,15 @@ select, input {
         padding: 1% 2%;
     }
 
+    .groups-title {
+        width: 460px;
+        height: 40px;
+    }
+
+    .groups-paragraph-container,  .groups-paragraph-container > p {
+        width: 440px;
+    }
+
     #form-cover-text, #form-heading {
         font-size: 130%;
     }
