@@ -891,6 +891,16 @@ select, input {
     .meetups-details {
         width: 460px;
     }
+
+    #about-us-info {
+        width: 440px;
+        margin: 0 10px 10px 10px;
+    }
+
+    #about-us-info > p {
+        margin: 20px 15px;
+        max-width: 440px;
+    }
 }
 
 @media screen and (max-width: 480px) {
