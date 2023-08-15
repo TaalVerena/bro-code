@@ -1062,8 +1062,7 @@ input {
     .groups-title,
     .groups-paragraph-container,
     .groups-paragraph-container>p,
-    .meetups-details,
-    #about-us-info {
+    .meetups-details {
         width: 310px;
     }
 
@@ -1072,12 +1071,17 @@ input {
     }
 
     #about-us-info>p {
-        max-width: 310px;
+        max-width: 300px;
     }
 
     #groups-heading,
     #meetups-heading,
     #about-us-heading {
         font-size: 145%;
+    }
+
+    #about-us-info {
+        width: 300px;
+        margin: 0;
     }
 }
