@@ -891,6 +891,16 @@ select, input {
     .meetups-details {
         width: 460px;
     }
+
+    #about-us-info {
+        width: 440px;
+        margin: 0 10px 10px 10px;
+    }
+
+    #about-us-info > p {
+        margin: 20px 15px;
+        max-width: 440px;
+    }
 }
 
 @media screen and (max-width: 480px) {
@@ -925,8 +935,12 @@ select, input {
         gap: 1%;
     }
 
-    .meetups-details {
+    .meetups-details, #about-us-info {
         width: 380px;
+    }
+
+    #about-us-info > p {
+        max-width: 360px;
     }
 
     #thank-you-background-image {
@@ -968,12 +982,12 @@ select, input {
         font-size: 78%;
     }
 
-    .groups-title, .groups-paragraph-container, .groups-paragraph-container > p, .meetups-details {
+    .groups-title, .groups-paragraph-container, .groups-paragraph-container > p, .meetups-details, #about-us-info {
         width: 330px;
     }
 
-    #meetups-container-image {
-        gap: 0;
+    #about-us-info > p {
+        max-width: 330px;
     }
 
     #form-background-image {
@@ -1006,11 +1020,19 @@ select, input {
         line-height: 30px;
     }
 
-    .groups-title, .groups-paragraph-container, .groups-paragraph-container > p, .meetups-details {
+    .groups-title, .groups-paragraph-container, .groups-paragraph-container > p, .meetups-details, #about-us-info {
         width: 310px;
     }
 
     #meetups-container-image {
         height: 1300px;
+    }
+
+    #about-us-info > p {
+        max-width: 310px;
+    }
+
+    #groups-heading, #meetups-heading, #about-us-heading {
+        font-size: 145%;
     }
 }
