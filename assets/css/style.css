@@ -112,7 +112,7 @@ header {
     line-height: 35px;
     border-radius: 15px 0 0 15px;
     padding: 1% 0.5%;
-    background: linear-gradient(180deg, rgba(28,9,73,0.95) 20%, rgba(9, 56, 97, 0.95) 100%);
+    background: linear-gradient(180deg, rgba(28, 9, 73, 0.95) 20%, rgba(9, 56, 97, 0.95) 100%);
     animation: fadeIn 5s;
 }
 
@@ -121,14 +121,19 @@ header {
 }
 
 @keyframes fadeIn {
-    0% {opacity: 0;}
-    100% {opacity: 1;}
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
 }
 
 /* groups */
 #groups {
-    background: rgb(28,9,73);
-    background: linear-gradient(180deg, rgba(28,9,73,1) 0%, rgba(14,51,93,1) 100%);
+    background: rgb(28, 9, 73);
+    background: linear-gradient(180deg, rgba(28, 9, 73, 1) 0%, rgba(14, 51, 93, 1) 100%);
 }
 
 #groups-heading {
@@ -159,7 +164,9 @@ header {
     flex-direction: row-reverse;
 }
 
-#groups-container h2,h3,p {
+#groups-container h2,
+h3,
+p {
     color: white;
 }
 
@@ -173,7 +180,7 @@ header {
     text-align: center;
     margin: 20px 60px;
     font-size: 150%;
-    line-height: 40px;
+    line-height: 50px;
 }
 
 .box-maroon {
@@ -222,7 +229,7 @@ header {
 #meetups-heading {
     height: 75px;
     width: 100%;
-    background-color: rgba(14,51,93,1);
+    background-color: rgba(14, 51, 93, 1);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -245,7 +252,8 @@ header {
     position: relative;
 }
 
-#first-two-meetups, #second-two-meetups {
+#first-two-meetups,
+#second-two-meetups {
     display: flex;
     position: relative;
     flex: 1;
@@ -284,7 +292,7 @@ header {
     color: #94176B;
 }
 
-.meetups-details > p {
+.meetups-details>p {
     padding: 2%;
     line-height: 30px;
     font-size: 125%;
@@ -319,8 +327,8 @@ header {
 
 /* about us */
 #about-us {
-    background: rgb(11,65,111);
-    background: linear-gradient(180deg, rgba(11,65,111,1) 0%, rgba(27,11,74,1) 100%);
+    background: rgb(11, 65, 111);
+    background: linear-gradient(180deg, rgba(11, 65, 111, 1) 0%, rgba(27, 11, 74, 1) 100%);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -343,7 +351,7 @@ header {
     margin: 0 20px 30px 20px;
 }
 
-#about-us-info > p {
+#about-us-info>p {
     text-align: center;
     font-size: 125%;
     margin: 20px 40px;
@@ -386,7 +394,7 @@ footer {
     font-size: 140%;
 }
 
-#footer > p {
+#footer>p {
     font-size: smaller;
     width: 100%;
     text-align: center;
@@ -421,7 +429,7 @@ footer {
     color: white;
     max-width: 880px;
     position: relative;
-    background-color: rgb(11,65,111);
+    background-color: rgb(11, 65, 111);
     border-radius: 10px;
     padding: 0.5%;
     text-align: center;
@@ -453,7 +461,7 @@ form {
     text-align: center;
 }
 
-#user-details > input {
+#user-details>input {
     background-color: rgba(255, 255, 255, 0.6);
     border-radius: 10px;
     padding: 0.8%;
@@ -464,7 +472,8 @@ form {
     margin: 1%;
 }
 
-select, input {
+select,
+input {
     font-size: 100%;
 }
 
@@ -510,7 +519,7 @@ select, input {
 #thank-you-cover-text {
     max-width: 1000px;
     max-height: 250px;
-    background-color: rgba(11,65,111,0.8);
+    background-color: rgba(11, 65, 111, 0.8);
     text-align: center;
     border-radius: 10px;
     display: flex;
@@ -527,7 +536,7 @@ select, input {
     font-size: 150%;
 }
 
-#thank-you-cover-text > p {
+#thank-you-cover-text>p {
     color: white;
     position: relative;
     padding: 8px 40px;
@@ -535,8 +544,10 @@ select, input {
 }
 
 /* media queries */
-@media screen and (max-width: 1210px) { 
-    #hero-container, #hero-image {
+@media screen and (max-width: 1210px) {
+
+    #hero-container,
+    #hero-image {
         height: 570px;
     }
 
@@ -559,7 +570,7 @@ select, input {
         margin: 10px;
     }
 
-    .groups-paragraph-container > p {
+    .groups-paragraph-container>p {
         width: 750px;
         margin: 10px;
         padding: 15px 10px;
@@ -572,7 +583,8 @@ select, input {
         padding: 20px;
     }
 
-    #first-two-meetups, #second-two-meetups {
+    #first-two-meetups,
+    #second-two-meetups {
         width: 100%;
         height: 50%;
     }
@@ -581,7 +593,7 @@ select, input {
         padding: 1.5% 3%;
     }
 
-    .meetups-details > p {
+    .meetups-details>p {
         padding: 1.25% 3%;
     }
 
@@ -590,7 +602,8 @@ select, input {
         line-height: 32px;
     }
 
-    #form-background-container, #form-background-image {
+    #form-background-container,
+    #form-background-image {
         height: 700px;
     }
 
@@ -629,7 +642,7 @@ select, input {
         width: 650px;
     }
 
-    .groups-paragraph-container > p {
+    .groups-paragraph-container>p {
         width: 650px;
         margin: 6px;
         padding: 5px;
@@ -639,7 +652,8 @@ select, input {
         height: 650px;
     }
 
-    #form-background-container, #form-background-image {
+    #form-background-container,
+    #form-background-image {
         height: 800px;
     }
 
@@ -664,7 +678,7 @@ select, input {
     #hero-image {
         background-image: url('../images/hero-image-medium.webp');
     }
-    
+
     #cover-text {
         width: 500px;
     }
@@ -676,7 +690,8 @@ select, input {
         line-height: 35px;
     }
 
-    .groups-paragraph-container, .groups-paragraph-container > p {
+    .groups-paragraph-container,
+    .groups-paragraph-container>p {
         width: 600px;
     }
 }
@@ -713,15 +728,17 @@ select, input {
         margin: 0 10px;
     }
 
-    #hero-container, #hero-image {
+    #hero-container,
+    #hero-image {
         height: 500px;
     }
 
-    .groups-paragraph-container, .groups-paragraph-container > p {
+    .groups-paragraph-container,
+    .groups-paragraph-container>p {
         width: 550px;
     }
 
-    .groups-paragraph-container > p {
+    .groups-paragraph-container>p {
         font-size: 122%;
     }
 }
@@ -735,11 +752,12 @@ select, input {
         font-size: 90%;
     }
 
-    .groups-paragraph-container, .groups-paragraph-container > p {
+    .groups-paragraph-container,
+    .groups-paragraph-container>p {
         width: 500px;
     }
 
-    .groups-paragraph-container > p {
+    .groups-paragraph-container>p {
         font-size: 120%;
     }
 
@@ -749,7 +767,9 @@ select, input {
 }
 
 @media screen and (max-width: 700px) {
-    .groups-row-left, .groups-row-right {
+
+    .groups-row-left,
+    .groups-row-right {
         flex-direction: column;
         align-items: center;
     }
@@ -762,7 +782,7 @@ select, input {
         border-radius: 10px;
     }
 
-    .groups-br {
+    .br {
         display: none;
     }
 
@@ -776,7 +796,7 @@ select, input {
         padding: 7px;
     }
 
-    .meetups-details > p {
+    .meetups-details>p {
         padding: 1%;
         font-size: 120%;
         line-height: 28px;
@@ -791,7 +811,8 @@ select, input {
         font-size: 125%;
     }
 
-    #hero-container, #hero-image {
+    #hero-container,
+    #hero-image {
         height: 475px;
     }
 
@@ -806,7 +827,9 @@ select, input {
 }
 
 @media screen and (max-width: 610px) {
-    #first-two-meetups, #second-two-meetups {
+
+    #first-two-meetups,
+    #second-two-meetups {
         flex-direction: column;
         align-items: center;
         gap: 0;
@@ -829,7 +852,9 @@ select, input {
 }
 
 @media screen and (max-width: 580px) {
-    #hero-container, #hero-image {
+
+    #hero-container,
+    #hero-image {
         height: 440px;
     }
 
@@ -848,28 +873,32 @@ select, input {
         height: 40px;
     }
 
-    .groups-paragraph-container,  .groups-paragraph-container > p {
+    .groups-paragraph-container,
+    .groups-paragraph-container>p {
         width: 440px;
     }
 
-    .meetups-details, #about-us-info {
+    .meetups-details,
+    #about-us-info {
         width: 500px;
     }
 
-    #about-us-info > p {
+    #about-us-info>p {
         margin: 20px 15px;
         max-width: 500px;
     }
 
-    #form-cover-text, #form-heading {
+    #form-cover-text,
+    #form-heading {
         font-size: 130%;
     }
 
-    #user-details > input {
+    #user-details>input {
         width: 80%;
     }
 
-    select, input {
+    select,
+    input {
         font-size: 90%;
     }
 
@@ -882,7 +911,8 @@ select, input {
         padding: 2px 10px;
     }
 
-    #thank-you-cover-text .thank-you-welcome-text, #thank-you-cover-text p {
+    #thank-you-cover-text .thank-you-welcome-text,
+    #thank-you-cover-text p {
         padding: 5px 20px;
     }
 }
@@ -897,7 +927,7 @@ select, input {
         margin: 0 10px 10px 10px;
     }
 
-    #about-us-info > p {
+    #about-us-info>p {
         margin: 20px 15px;
         max-width: 440px;
     }
@@ -913,7 +943,8 @@ select, input {
         font-size: 130%;
     }
 
-    #hero-container, #hero-image {
+    #hero-container,
+    #hero-image {
         height: 400px;
     }
 
@@ -927,7 +958,9 @@ select, input {
         padding: 0.5% 2%;
     }
 
-    .groups-title, .groups-paragraph-container,  .groups-paragraph-container > p {
+    .groups-title,
+    .groups-paragraph-container,
+    .groups-paragraph-container>p {
         width: 380px;
     }
 
@@ -935,11 +968,12 @@ select, input {
         gap: 1%;
     }
 
-    .meetups-details, #about-us-info {
+    .meetups-details,
+    #about-us-info {
         width: 380px;
     }
 
-    #about-us-info > p {
+    #about-us-info>p {
         max-width: 360px;
     }
 
@@ -947,7 +981,8 @@ select, input {
         background-image: url(../images/thank-you-background-image-medium.webp);
     }
 
-    #thank-you-cover-text .thank-you-welcome-text, #thank-you-cover-text p {
+    #thank-you-cover-text .thank-you-welcome-text,
+    #thank-you-cover-text p {
         padding: 6px;
     }
 
@@ -964,7 +999,7 @@ select, input {
     #logo {
         font-size: 230%;
     }
-    
+
     #menu li {
         margin: 1px 7px;
         font-size: 110%;
@@ -982,11 +1017,15 @@ select, input {
         font-size: 78%;
     }
 
-    .groups-title, .groups-paragraph-container, .groups-paragraph-container > p, .meetups-details, #about-us-info {
+    .groups-title,
+    .groups-paragraph-container,
+    .groups-paragraph-container>p,
+    .meetups-details,
+    #about-us-info {
         width: 330px;
     }
 
-    #about-us-info > p {
+    #about-us-info>p {
         max-width: 330px;
     }
 
@@ -998,7 +1037,7 @@ select, input {
         margin: 12px 10px;
         padding: 2px 5px;
     }
-    
+
     #thank-you-cover-text .thank-you-welcome-text {
         padding: 5px;
         font-size: 140%;
@@ -1020,7 +1059,11 @@ select, input {
         line-height: 30px;
     }
 
-    .groups-title, .groups-paragraph-container, .groups-paragraph-container > p, .meetups-details, #about-us-info {
+    .groups-title,
+    .groups-paragraph-container,
+    .groups-paragraph-container>p,
+    .meetups-details,
+    #about-us-info {
         width: 310px;
     }
 
@@ -1028,11 +1071,13 @@ select, input {
         height: 1300px;
     }
 
-    #about-us-info > p {
+    #about-us-info>p {
         max-width: 310px;
     }
 
-    #groups-heading, #meetups-heading, #about-us-heading {
+    #groups-heading,
+    #meetups-heading,
+    #about-us-heading {
         font-size: 145%;
     }
 }
