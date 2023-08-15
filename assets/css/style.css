@@ -935,8 +935,12 @@ select, input {
         gap: 1%;
     }
 
-    .meetups-details {
+    .meetups-details, #about-us-info {
         width: 380px;
+    }
+
+    #about-us-info > p {
+        max-width: 360px;
     }
 
     #thank-you-background-image {
