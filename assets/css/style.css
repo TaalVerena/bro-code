@@ -1031,4 +1031,8 @@ select, input {
     #about-us-info > p {
         max-width: 310px;
     }
+
+    #groups-heading, #meetups-heading, #about-us-heading {
+        font-size: 145%;
+    }
 }
