@@ -84,3 +84,9 @@ Check for any errors returned when passing through the official (Jigsaw) validat
 
 ### Color Scheme
 * Color scheme swatches sourced from and built upon [Adobe Color](https://color.adobe.com/create/image)
+
+![#0B416F](https://placehold.it/150x40/0B416F/fff?text=0B416F)
+![#2b1661](https://placehold.it/150x40/2b1661/fff?text=2B1661)
+![#422dc9](https://placehold.it/150x40/422dc9/fff?text=422dc9)
+![#94176B](https://placehold.it/150x40/94176B/fff?text=94176B)
+![#14e0e0](https://placehold.it/150x40/14e0e0/fff?text=14e0e0)
