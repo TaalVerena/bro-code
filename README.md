@@ -16,6 +16,19 @@ Bro Code is more than just lines of code; it's a way of life. Our community embr
 ### Connect and Engage
 Stay connected with fellow coders beyond the screen through our social media channels. Join us on Instagram, Facebook, and Discord to share your coding journey, discover new friendships, and take part in discussions that span from algorithms to epic gaming adventures.
 
+(insert Am I Responsive screenshot)
+
+## Table of Contentas
+(insert Table of Contents)
+
+## User Stories
+| User Want or Need      | How It Is Achieved | Achieved     |
+| :---        |    :----:   |          ---: |
+| Navigate the website easily      | Inteactive navigation bar       | [x]   |
+| Find a group of likeminded programmers   | Groups that cater to different coders and hobbies        | [x]      |
+| Have easy access to upcomning events      | Weekly meetups available on the website       | [x]   |
+| Be able to access the wbeiste on any device      | Responsive webiste down to 320px       | [x]   |
+| Easily contact the people behind Bro Code      | Signup form created and Discord link emailed       | [x]   |
 ## Features
 (Different features and short description)
 (Value provided to the user)
