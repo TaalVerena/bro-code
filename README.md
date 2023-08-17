@@ -18,7 +18,7 @@ Stay connected with fellow coders beyond the screen through our social media cha
 
 (insert Am I Responsive screenshot)
 
-## Table of Contentas
+## Table of Contents
 (insert Table of Contents)
 
 ## User Stories
@@ -29,6 +29,7 @@ Stay connected with fellow coders beyond the screen through our social media cha
 | Have easy access to upcomning events      | Weekly meetups available on the website       | [x]   |
 | Be able to access the wbeiste on any device      | Responsive webiste down to 320px       | [x]   |
 | Easily contact the people behind Bro Code      | Signup form created and Discord link emailed       | [x]   |
+
 ## Features
 (Different features and short description)
 (Value provided to the user)
@@ -87,7 +88,9 @@ Colorful Swatch
 Swatches generated on https://color.adobe.com/create/image.
 
 
-
 ### Content
-
+* Markdown table layout sourced from https://www.markdownguide.org/extended-syntax/#tables
 ### Media
+* Hero image sourced on Freepik https://img.freepik.com/free-vector/female-programmer-working-computer-night_107791-19637.jpg?w=1380&t=st=1692291332~exp=1692291932~hmac=eba727fa0d86751c47779c3de478b9d51857c78830f0460604dba32d41997e42
+* Thank you page background image sourced from https://img.freepik.com/free-photo/open-book-with-fairytale-scene_52683-107844.jpg?w=1380&t=st=1692291561~exp=1692292161~hmac=62c732b1d658371a3f5da45c4d1f378650b5772712731a6e1958339014aefee7
+* Signup page background image sourced from Freepik https://img.freepik.com/free-vector/magic-portal-mountain-cliff-with-flying-rocks-around_107791-4674.jpg?w=1380&t=st=1692291689~exp=1692292289~hmac=febe9ad2b8b2e31c44eb3835d8abd3e4ed95a347c0fecd8374a1f73c20903171
