@@ -579,7 +579,7 @@ input {
     font-size: 125%;
 }
 
-/* media queries */
+/* media query for min-width: 2500px */
 @media screen and (min-width: 2500px) {
     html {
         scroll-padding-top: 95px;
@@ -702,8 +702,8 @@ input {
     }
 }
 
+/* media query for max-width: 1210px */
 @media screen and (max-width: 1210px) {
-
     #hero-container,
     #hero-image {
         height: 570px;
@@ -790,6 +790,7 @@ input {
     }
 }
 
+/* media query for max-width: 989px */
 @media screen and (max-width: 989px) {
     .groups-title {
         margin: 6px;
@@ -832,6 +833,7 @@ input {
 
 }
 
+/* media query for max-width: 910px */
 @media screen and (max-width: 910px) {
     #hero-image {
         background-image: url('../images/hero-image-medium.webp');
@@ -854,6 +856,7 @@ input {
     }
 }
 
+/* media query for max-width: 810px */
 @media screen and (max-width: 810px) {
     html {
         scroll-padding-top: 110px;
@@ -901,6 +904,7 @@ input {
     }
 }
 
+/* media query for max-width: 760px */
 @media screen and (max-width: 760px) {
     #cover-text {
         width: 450px;
@@ -924,8 +928,8 @@ input {
     }
 }
 
+/* media query for max-width: 700px */
 @media screen and (max-width: 700px) {
-
     .groups-row-left,
     .groups-row-right {
         flex-direction: column;
@@ -984,8 +988,8 @@ input {
     }
 }
 
+/* media query for max-width: 610px */
 @media screen and (max-width: 610px) {
-
     #first-two-meetups,
     #second-two-meetups {
         flex-direction: column;
@@ -1009,8 +1013,8 @@ input {
     }
 }
 
+/* media query for max-width: 580px */
 @media screen and (max-width: 580px) {
-
     #hero-container,
     #hero-image {
         height: 440px;
@@ -1075,6 +1079,7 @@ input {
     }
 }
 
+/* media query for max-width: 530px */
 @media screen and (max-width: 530px) {
     .meetups-details {
         width: 460px;
@@ -1091,6 +1096,7 @@ input {
     }
 }
 
+/* media query for max-width: 480px */
 @media screen and (max-width: 480px) {
     #logo {
         font-size: 250%;
@@ -1153,6 +1159,7 @@ input {
     }
 }
 
+/* media query for max-width: 400px */
 @media screen and (max-width: 400px) {
     #logo {
         font-size: 230%;
@@ -1206,6 +1213,7 @@ input {
     }
 }
 
+/* media query for max-width: 350px */
 @media screen and (max-width: 350px) {
     #cover-text {
         width: 280px;
