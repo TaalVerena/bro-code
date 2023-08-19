@@ -424,17 +424,11 @@ footer {
 }
 
 /* form background image */
-#form-background-container {
-    height: 800px;
-    width: 100%;
-    position: relative;
-    top: 0;
-    left: 0;
-}
-
 #form-background-image {
     height: 970px;
     width: 100%;
+    top: 0;
+    left: 0;
     background-image: url('../images/join-background-image.webp');
     background-position: center;
     background-repeat: no-repeat;
@@ -664,8 +658,7 @@ input {
         padding-bottom: 30px;
     }
 
-    #form-background-image,
-    #form-background-container {
+    #form-background-image {
         height: 1250px;
     }
 
@@ -753,7 +746,6 @@ input {
         line-height: 32px;
     }
 
-    #form-background-container,
     #form-background-image {
         height: 900px;
     }
@@ -1180,9 +1172,6 @@ input {
 
     #form-background-image {
         background-image: url(../images/join-background-image-small.webp);
-    }
-
-    #form-background-container, #form-background-image {
         height: 950px;
     }
 
@@ -1239,7 +1228,7 @@ input {
         margin: 0;
     }
 
-    #form-background-container, #form-background-image {
+    #form-background-image {
         height: 970px;
     }
 }
