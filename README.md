@@ -36,6 +36,14 @@ Stay connected with fellow coders beyond the screen through our social media cha
 | Be able to access the wbeiste on any device      | Responsive webiste down to 320px       | [x]   |
 | Easily contact the people behind Bro Code      | Signup form created and Discord link emailed       | [x]   |
 
+## Planning
+### Figma Wireframe:
+#### Home:
+#### Groups:
+#### Meetups:
+#### About Us:
+#### Signup Form:
+
 ## Features
 (Different features and short description)
 (Value provided to the user)
