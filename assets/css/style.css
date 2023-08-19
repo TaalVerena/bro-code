@@ -647,6 +647,13 @@ input {
         line-height: 50px;
     }
 
+    #about-us-info>p {
+        font-size: 220%;
+        max-width: 1800px;
+        line-height: 60px;
+        padding-bottom: 20px;
+    }
+
     #form-background-image,
     #form-background-container {
         height: 1250px;
