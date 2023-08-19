@@ -572,13 +572,13 @@ input {
         scroll-padding-top: 95px;
     }
 
-    header {
+    header, footer {
         height: 95px;
     }
 
     #menu,
     #logo {
-        line-height: 70px;
+        line-height: 95px;
     }
 
     #logo {
