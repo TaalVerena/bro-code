@@ -225,10 +225,14 @@ p {
 }
 
 /* meetups */
+#meetups{
+    background-color: rgb(14, 51, 93);
+}
+
 #meetups-heading {
     height: 75px;
     width: 100%;
-    background-color: rgba(14, 51, 93, 1);
+    background-color: rgb(14, 51, 93);
     display: flex;
     align-items: center;
     justify-content: center;
