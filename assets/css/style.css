@@ -594,6 +594,16 @@ input {
         font-size: 220%;
     }
 
+    #hero-container, #hero-image {
+        height: 900px;
+    }
+
+    #cover-text {
+        width: 650px;
+        font-size: 220%;
+        line-height: 45px;
+    }
+
     #form-background-image,
     #form-background-container {
         height: 1250px;
