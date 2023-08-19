@@ -1249,4 +1249,8 @@ input {
         width: 280px;
         margin: 0;
     }
+
+    #form-background-container, #form-background-image {
+        height: 970px;
+    }
 }
