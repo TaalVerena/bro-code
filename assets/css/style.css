@@ -634,6 +634,19 @@ input {
         line-height: 50px;
     }
 
+    #meetups-container-image {
+        height: 1000px;
+    }
+
+    .meetups-title {
+        font-size: 250%;
+    }
+
+    .meetups-details > .meetups-location, .meetups-details > p {
+        font-size: 260%;
+        line-height: 50px;
+    }
+
     #form-background-image,
     #form-background-container {
         height: 1250px;
@@ -659,10 +672,6 @@ input {
 
     #thank-you-cover-text>p {
         font-size: 220%;
-    }
-
-    #meetups-container-image {
-        height: 620px;
     }
 
     #footer-links {
