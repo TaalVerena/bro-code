@@ -517,14 +517,6 @@ input {
 }
 
 /* thank you page */
-#thank-you-background-container {
-    height: 100vh;
-    width: 100%;
-    position: relative;
-    top: 0;
-    left: 0;
-}
-
 #thank-you-background-image {
     height: 100vh;
     width: 100%;
@@ -532,6 +524,9 @@ input {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    position: relative;
+    top: 0;
+    left: 0;
 }
 
 /* thank you page cover text */
