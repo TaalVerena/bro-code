@@ -439,7 +439,7 @@ footer {
 }
 
 #form-background-image {
-    height: 800px;
+    height: 950px;
     width: 100%;
     background-image: url('../images/join-background-image.webp');
     background-position: center;
@@ -448,7 +448,7 @@ footer {
     position: relative;
     display: flex;
     flex-direction: column;
-    padding: 1% 0;
+    padding: 1.5% 0;
     gap: 2%;
 }
 
@@ -496,8 +496,17 @@ form {
     width: 45%;
 }
 
-.form-margin {
-    margin: 1%;
+.user-details-margin {
+    margin: 15px;
+}
+
+.user-location-margin {
+    margin: 10px 12px 20px 12px;
+}
+
+.user-groups-margin {
+    margin: 12px;
+    line-height: 33px;
 }
 
 select,
@@ -508,7 +517,7 @@ input {
 #submit {
     background-color: #2b1661;
     color: white;
-    margin-top: 2%;
+    margin-top: 2px;
     padding: 0.8%;
     border-radius: 10px;
 }
