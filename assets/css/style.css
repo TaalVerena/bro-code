@@ -517,7 +517,7 @@ input {
 #submit {
     background-color: #2b1661;
     color: white;
-    margin-top: 2px;
+    margin: 15px 5px;
     padding: 0.8%;
     border-radius: 10px;
 }
