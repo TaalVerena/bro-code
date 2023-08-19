@@ -586,9 +586,21 @@ input {
         margin-right: 40px;
     }
 
+    #menu li,
+    #footer-links a,
+    #form-heading,
+    #form-cover-text,
+    #form-section {
+        font-size: 220%;
+    }
+
     #form-background-image,
     #form-background-container {
         height: 1250px;
+    }
+
+    #form-background-image, #thank-you-background-image {
+        padding: 50px 0;
     }
 
     #form-cover-text,
@@ -596,11 +608,16 @@ input {
         max-width: 1380px;
     }
 
-    #menu li,
-    #footer-links a,
-    #form-heading,
-    #form-cover-text,
-    #form-section {
+    #thank-you-cover-text {
+        max-width: 1500px;
+        max-height: 400px;
+    }
+
+    #thank-you-cover-text .thank-you-welcome-text {
+        font-size: 270%;
+    }
+
+    #thank-you-cover-text>p {
         font-size: 220%;
     }
 
