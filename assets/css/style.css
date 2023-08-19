@@ -568,6 +568,10 @@ input {
 
 /* media queries */
 @media screen and (min-width: 2500px) {
+    html {
+        scroll-padding-top: 95px;
+    }
+
     header {
         height: 95px;
     }
@@ -602,6 +606,11 @@ input {
         width: 650px;
         font-size: 220%;
         line-height: 45px;
+    }
+
+    #groups-heading, #meetups-heading, #about-us-heading {
+        font-size: 350%;
+        height: 100px;
     }
 
     #form-background-image,
