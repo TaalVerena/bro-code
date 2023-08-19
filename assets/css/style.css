@@ -332,14 +332,16 @@ p {
     justify-content: center;
     align-items: center;
     overflow: hidden;
-    background-color: #422dc9;
+    background-color: #3928a8;
     background: linear-gradient(
           to right,
+          #3928a8,
           #422dc9,
           #94176B,
           #05cddbdc,
           #94176B,
-          #422dc9
+          #422dc9,
+          #3928a8
         );
     text-align: center;
 }
