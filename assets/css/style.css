@@ -1209,7 +1209,7 @@ input {
     .groups-paragraph-container,
     .groups-paragraph-container>p,
     .meetups-details {
-        width: 310px;
+        width: 290px;
     }
 
     #meetups-container-image {
@@ -1217,7 +1217,7 @@ input {
     }
 
     #about-us-info>p {
-        max-width: 300px;
+        max-width: 280px;
     }
 
     #groups-heading,
@@ -1227,7 +1227,7 @@ input {
     }
 
     #about-us-info {
-        width: 300px;
+        width: 280px;
         margin: 0;
     }
 }
