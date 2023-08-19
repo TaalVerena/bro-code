@@ -811,11 +811,6 @@ input {
         height: 650px;
     }
 
-    #form-background-container,
-    #form-background-image {
-        height: 800px;
-    }
-
     #form-background-image {
         gap: 0;
         padding: 0;
@@ -1196,6 +1191,10 @@ input {
 
     #form-background-image {
         background-image: url(../images/join-background-image-small.webp);
+    }
+
+    #form-background-container, #form-background-image {
+        height: 950px;
     }
 
     #thank-you-cover-text {
