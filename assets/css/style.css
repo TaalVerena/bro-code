@@ -654,6 +654,10 @@ input {
         padding-bottom: 20px;
     }
 
+    #about-us {
+        padding-bottom: 30px;
+    }
+
     #form-background-image,
     #form-background-container {
         height: 1250px;
