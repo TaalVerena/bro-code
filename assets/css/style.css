@@ -567,6 +567,52 @@ input {
 }
 
 /* media queries */
+@media screen and (min-width: 2500px) {
+    header {
+        height: 95px;
+    }
+
+    #menu,
+    #logo {
+        line-height: 70px;
+    }
+
+    #logo {
+        font-size: 350%;
+        margin-left: 50px;
+    }
+
+    #menu li {
+        margin-right: 40px;
+    }
+
+    #form-background-image,
+    #form-background-container {
+        height: 1250px;
+    }
+
+    #form-cover-text,
+    #form-section {
+        max-width: 1380px;
+    }
+
+    #menu li,
+    #footer-links a,
+    #form-heading,
+    #form-cover-text,
+    #form-section {
+        font-size: 220%;
+    }
+
+    #meetups-container-image {
+        height: 620px;
+    }
+
+    #footer-links {
+        height: 75px;
+    }
+}
+
 @media screen and (max-width: 1210px) {
 
     #hero-container,
@@ -1106,47 +1152,5 @@ input {
     #about-us-info {
         width: 300px;
         margin: 0;
-    }
-}
-
-@media screen and (min-height: 990px) {
-    header {
-        height: 95px;
-    }
-
-    #menu,
-    #logo {
-        line-height: 70px;
-    }
-
-    #logo {
-        font-size: 350%;
-        margin-left: 50px;
-    }
-
-    #menu li {
-        margin-right: 40px;
-    }
-
-    #form-background-image,
-    #form-background-container {
-        height: 1250px;
-    }
-
-    #form-cover-text,
-    #form-section {
-        max-width: 1380px;
-    }
-
-    #menu li,
-    #footer-links a,
-    #form-heading,
-    #form-cover-text,
-    #form-section {
-        font-size: 220%;
-    }
-
-    #footer-links {
-        height: 75px;
     }
 }
