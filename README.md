@@ -262,12 +262,25 @@ Together, these colors unite to compose a harmonious palette that captures the e
 * Cater the website to also be responsive on much larger devices, excluding the most commonly used device sizes that have already been catered for.
 
 ## Testing
-* I tested this website on Chrome, Firefox and Edge.
-* I confirmed that the website is responsive, maintains good structure and image quality, and functions as intended on all standard screen sizes using Dev Tools.
+* I tested my website on Chrome, Firefox and Edge.
+* I confirmed that my website is responsive, maintains good structure and image quality, and functions as intended on all standard screen sizes using Dev Tools.
 * Basic adjustments made for much larger devices.
-* I tested the website on 3 different PCs, 2 different laptops and 2 different phones.
+* I tested my website on 3 different PCs, 2 different laptops and 2 different phones.
 * I confirmed that the text throughout the website is easily read and understood.
 * I have confirmed that the form works, requires an email address, the submit button works and takes the user to a thank you page.
+
+### Lighthouse
+I tested my website using the Lighthouse feature on Dev Tools. All 3 pages returned the desired results.
+
+#### Main Page Lighthouse Results
+![Lighthouse Main Page](README-media/lighthouse-main-page.png)
+
+#### Signup Page Lighthouse Results
+![Lighthouse Signup Page](README-media/lighthouse-signup-page.png)
+
+#### Thank You Page Lighthouse Results
+![Lighthouse Thank You Page](README-media/lighthouse-thank-you-page.png)
+
 ### Validator Testing
 (HTML
 Check for any errors returned when passing through the official W3C validator)
