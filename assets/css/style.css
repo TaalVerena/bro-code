@@ -23,7 +23,7 @@ body {
 }
 
 /* generic rules */
-.header-and-footer {
+header, footer {
     height: 65px;
     background-color: rgba(43, 22, 97, 1);
     position: fixed;
@@ -516,7 +516,7 @@ input {
         scroll-padding-top: 95px;
     }
 
-    .header-and-footer{
+    header, footer {
         height: 95px;
     }
 
@@ -781,18 +781,26 @@ input {
 
 /* media query for max-width: 810px */
 @media screen and (max-width: 810px) {
+    header, footer {
+        display: flex;
+        flex-direction: column;
+    }
+
+    header {
+        height: 100px;
+    }
+
+    footer {
+        justify-content: center;
+        height: 65px;
+    }
+    
     html {
         scroll-padding-top: 110px;
     }
 
     body {
         padding-top: 100px;
-    }
-
-    header {
-        height: 100px;
-        display: flex;
-        flex-direction: column;
     }
 
     #logo {
@@ -915,10 +923,6 @@ input {
 
 /* media query for max-width: 610px */
 @media screen and (max-width: 610px) {
-    .header-and-footer {
-        height: 90px;
-    }
-
     #first-two-meetups,
     #second-two-meetups {
         flex-direction: column;
