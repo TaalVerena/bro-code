@@ -217,7 +217,15 @@ Together, these colors unite to compose a harmonious palette that captures the e
     ![About Us Section Mobile](README-media/about-us-mobile.png)
 
 #### Footer
-
+* The footer uses the same color scheme and font as the header, creating a uniform design.
+* A fixed footer has been utilised, ensuring smooth navigation for the user.
+* To keep the footer more minimal compared to the website itself, this only contains links to social networks (Instagram, Facebook & Discord) along with a disclaimer.
+* Social mdia links open in a separate tab and inlcude Font Awesome icons to give visual confirmation to the user as well as aria labels for inclusivity of all users.
+* The footer is responsive on different devices and increases in height on medium devices, hiding the social network names on smaller devices. This ensures that the icons and disclaimer remain visible and easily clickable on all devices.
+* The changes from the wireframe inlcude the use of icons and the addition of th disclaimer. These changes have been implemented to ensure ease of use for the user.
+  
+    ![Footer](README-media/footer.png)
+    ![Footer Mobile](README-media/footer-mobile.png)
 #### Sign Up Page
 (Description and screenshot)
 #### Thank You Page

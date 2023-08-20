@@ -391,7 +391,7 @@ footer {
 }
 
 #footer-links {
-    height: 50px;
+    height: 45px;
     list-style: none;
     display: flex;
     justify-content: center;
