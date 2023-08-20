@@ -516,7 +516,7 @@ input {
         scroll-padding-top: 95px;
     }
 
-    header, footer {
+    .header-and-footer{
         height: 95px;
     }
 
