@@ -23,6 +23,13 @@ body {
 }
 
 /* generic rules */
+.header-and-footer {
+    height: 65px;
+    background-color: rgba(43, 22, 97, 1);
+    position: fixed;
+    z-index: 1;
+}
+
 .section-heading {
     height: 75px;
     display: flex;
@@ -86,12 +93,8 @@ h1 {
 
 /* header */
 header {
-    height: 65px;
-    background-color: rgba(43, 22, 97, 1);
-    position: fixed;
     top: 0;
     left: 0;
-    z-index: 1;
     width: 100%;
 }
 
@@ -358,11 +361,8 @@ header {
 
 /* footer */
 footer {
-    height: 65px;
     width: 100%;
-    background-color: rgba(43, 22, 97, 1);
     bottom: 0;
-    position: fixed;
 }
 
 #footer-links {
