@@ -259,8 +259,15 @@ Together, these colors unite to compose a harmonious palette that captures the e
 * As this website was deisgned for a portfolio project using HTML and CSS, the information from the signup page is not collected at present. Building on this to make it functional and have a running website is a feature I would like to implement at a later stage.
 * Once the webiste is in use, I would like to expand to other countries to cater to more users.
 * Work with local companies and suppliers to organize group events, discounts and special offers for the Bro Code community.
+* Cater the website to also be responsive on much larger devices, excluding the most commonly used device sizes that have already been catered for.
 
 ## Testing
+* I tested this website on Chrome, Firefox and Edge.
+* I confirmed that the website is responsive, maintains good structure and image quality, and functions as intended on all standard screen sizes using Dev Tools.
+* Basic adjustments made for much larger devices.
+* I tested the website on 3 different PCs, 2 different laptops and 2 different phones.
+* I confirmed that the text throughout the website is easily read and understood.
+* I have confirmed that the form works, requires an email address, the submit button works and takes the user to a thank you page.
 ### Validator Testing
 (HTML
 Check for any errors returned when passing through the official W3C validator)
