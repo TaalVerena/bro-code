@@ -161,8 +161,18 @@ Together, these colors unite to compose a harmonious palette that captures the e
 (What the user wants to achieve and how my project is the best way to help them achieve this)
 
 ### Existing Features
-#### Navigation Bar
-(Description and screenshot)
+#### Navigation Bar / Header
+
+* The fixed header includes a navigation bar that allows seamless navigation throughout the website.
+* The 'Bro Code' logo is positioned to the left-hand-side of the screen and links to the home / landing page.
+* The other navigation links are positioned on the right-hand-side of the screen. These navigate to the 3 different sections ('Groups', 'Meetups' & 'About Us') as well as the signup page ('Join').
+* When hovered over, the links glow to create an interactive user experience. To distinguish between the logo and the other navigation links, the logo slows in a lighter color whereas the other navigation links glow blue.
+* The navigation bar is responsive to different devices and on smaller devices, the layout changes by positioning the logo in the center and the rest of the navigation links underneath the logo.
+* The change from the wireframe is the logo font. Caprasimo is used for the logo and Roboto for the body. Throughout the website, sans-serif is used as the default font.
+  
+![Alt text](README-media/nav-bar.png)
+
+![Alt text](README-media/nav-bar-mobile.png)
 #### Landing Page Image
 (Description and screenshot)
 #### About Us
