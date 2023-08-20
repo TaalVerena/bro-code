@@ -16,30 +16,38 @@ html {
 body {
     font-family: Roboto, sans-serif;
     font-weight: 400;
-    color: #071726;
+    color: white;
     background-color: rgb(43, 22, 97);
     padding-top: 64px;
     padding-bottom: 64px;
 }
 
-/* logo and headings */
+/* generic rules */
+
+.section-heading {
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-align: center;
+    font-size: 160%;
+    font-weight: 50;
+}
+
+/* logo and h1 */
 #logo {
     float: left;
     font-size: 270%;
     font-weight: 300;
     margin-left: 25px;
-    color: white;
 }
 
 h1 {
     font-family: Caprasimo, sans-serif;
     text-transform: capitalize;
     letter-spacing: 2px;
-}
-
-h2 {
-    font-size: 160%;
-    font-weight: 50;
 }
 
 /* navigation bar */
@@ -129,17 +137,6 @@ header {
     background: linear-gradient(180deg, rgba(28, 9, 73, 1) 0%, rgba(14, 51, 93, 1) 100%);
 }
 
-#groups-heading {
-    height: 75px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: white;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-    text-align: center;
-}
-
 #groups-container {
     display: flex;
     flex-direction: column;
@@ -155,12 +152,6 @@ header {
 .groups-row-right {
     display: flex;
     flex-direction: row-reverse;
-}
-
-#groups-container h2,
-h3,
-p {
-    color: white;
 }
 
 .groups-title {
@@ -224,16 +215,8 @@ p {
 }
 
 #meetups-heading {
-    height: 75px;
     width: 100%;
     background-color: rgb(14, 51, 93);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: white;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-    text-align: center;
 }
 
 #meetups-container-image {
@@ -358,14 +341,6 @@ p {
 #about-us-heading {
     margin-top: 15px;
     margin-bottom: 10px;
-    height: 75px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: white;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-    text-align: center;
 }
 
 #about-us-info {
@@ -442,7 +417,6 @@ footer {
 
 /* form cover text */
 #form-cover-text {
-    color: white;
     max-width: 880px;
     position: relative;
     background-color: rgb(11, 65, 111);
@@ -454,7 +428,6 @@ footer {
 
 /* form */
 #form-section {
-    color: white;
     max-width: 880px;
     position: relative;
     background-color: rgba(148, 23, 107, 0.6);
@@ -471,7 +444,6 @@ form {
 }
 
 #form-heading {
-    color: white;
     padding: 1%;
     margin-bottom: 0.5%;
     text-align: center;
@@ -549,14 +521,12 @@ input {
 }
 
 #thank-you-cover-text .thank-you-welcome-text {
-    color: white;
     position: relative;
     padding: 8px 40px;
     font-size: 150%;
 }
 
 #thank-you-cover-text>p {
-    color: white;
     position: relative;
     padding: 8px 40px;
     font-size: 125%;
