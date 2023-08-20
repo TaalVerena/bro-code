@@ -226,8 +226,23 @@ Together, these colors unite to compose a harmonious palette that captures the e
   
     ![Footer](README-media/footer.png)
     ![Footer Mobile](README-media/footer-mobile.png)
-#### Sign Up Page
-(Description and screenshot)
+
+#### Signup Page: Enter the Bro Code Universe
+* The Bro Code Signup Page, set against a captivating portal background, provides a signup process designed to seamlessly welcome the user into the Bro Code community.
+* The page enables the user to join the community following the submission of the form. The infrmation requested has been kept to the point to allow for a faster submission process and to keep the user' interest.
+* Placeholder text has been utilised for the user details input elements to prompt the user and labels used throughout the form as confirmation to the user.
+* The user details section has been set as 'required' as these details will be needed to send information and suggestions to the user.
+* The email input has been set as an type 'email' and names given for the input elements for information collection purposes.
+* A dropdown selection of counties in Munster have been provided to better enable the Bro Code team to recommend groups to the user. The option of 'Other' is also noted for users who are located abroad, but would still like to join the meetups / groups.
+* The checkbox includes confirmation that the user can join more groups, change thier mind about groups selected in the signup form or create their own groups. This gives the user flexibility and allows them to make joining the community an enjoyable and personalised experience.
+* The header and footer tie in with the main page to provide a seamless transition between pages.
+* The submit button brings the user to the Thank You page detailed below.
+* The changes from the wireframe includde the addition of the background images and color changes. The eye-catching portal-themed background sets the stage for the user's journey into the Bro Code realm and follows the color scheme of the main page. A varied opacity version of the familiar colors used on the main page are used as background colors for the form text. 
+
+    ![Signup Page](README-media/signup-page.png)
+    ![Signup Page Mobile](README-media/signup-page-mobile.png)
+
+Explore the Bro Code Universe Today!
 #### Thank You Page
 (Description and screenshot)
 
