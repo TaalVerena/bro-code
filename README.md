@@ -52,6 +52,7 @@ The Bro Code website was signed my Sarah-Lee Bester and the live website can be 
   - [Testing](#testing)
     - [Lighthouse](#lighthouse)
     - [Validator Testing](#validator-testing)
+    - [WAVE](#wave)
     - [Bugs](#bugs)
   - [Fixed Bugs](#fixed-bugs)
   - [Unfixed Bugs](#unfixed-bugs)
@@ -345,6 +346,20 @@ I tested my website using the Lighthouse feature on Dev Tools. All 3 pages retur
     I checked my CSS file and no errors were returned when passing through the official Jigsaw validator.
 
     ![Validator CSS](README-media/validator-css.png)
+
+### WAVE
+* I tested my website on WAVE and no errors or alerts were found.
+  * WAVE Test on Main Page:
+
+    ![WAVE Main Page](README-media/wave-main-page.png)
+
+  * WAVE Test on Signup Page:
+    
+    ![WAVE Signup Page](README-media/wave-signup-page.png)
+
+  * WAVE Test on Thank You Page:
+    
+    ![WAVE Thank You Page](README-media/wave-thank-you-page.png)
 
 ### Bugs
 
