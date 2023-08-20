@@ -984,6 +984,13 @@ input {
     #about-us-info {
         width: 538px;
     }
+
+    footer {
+        height: 90px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
 }
 
 /* media query for max-width: 580px */
