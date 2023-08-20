@@ -160,6 +160,7 @@ Together, these colors unite to compose a harmonious palette that captures the e
 #### Navigation Bar / Header
 
 * The fixed header includes a navigation bar that allows seamless navigation throughout the website.
+* A smooth scroll effect has been used to allow for a better user experience.
 * The 'Bro Code' logo is positioned to the left-hand-side of the screen and links to the home / landing page.
 * The other navigation links are positioned on the right-hand-side of the screen. These navigate to the 3 different sections ('Groups', 'Meetups' & 'About Us') as well as the signup page ('Join').
 * When hovered over, the links glow to create an interactive user experience. To distinguish between the logo and the other navigation links, the logo glows in a lighter color whereas the other navigation links glow blue.
