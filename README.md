@@ -182,7 +182,15 @@ Together, these colors unite to compose a harmonious palette that captures the e
     ![Landing Page Mobile](README-media/landing-page-mobile.png)
 
 #### Groups
-(Description and screenshot)
+* The Groups section showcases the 6 existing groups Bro Code members can join. Each group has a distinct name and description that outlines the group's purpose.
+* Users can explore the list of available groups and choose to join the ones that align with their interests. Alternatively, they can create their own groups based on what they're passionate about.
+* The Groups section has a gradient effect from royal purple to ocean blue. This was chosen to lead the user from the purple in the landing page to the blue accents in the Meetups section that follows.
+* The colors used for the groups themselves create a contrast between the background and the text, making it easily readable. These colors also flow from the magenta in the hero image to aquamarine, picking up the lighter blue shades in the Meetups section.
+* The Groups section is responsive on different devices. Going from larger to medium sized devices, the groups are brought closer together and on smaller devices, the groups are flexed into a column to enusre it is easily viewable on any device.
+* The changes from the wireframe include the rounded edges of the group titles, the gradient background and colorful border in the groups description. These changes were implemented to make this section stand out to the user and showcase the theme right from the beginning.
+
+    ![Groups Section](README-media/groups.png)
+    ![Groups Section Mobile](README-media/groups-mobile.png)
 #### Meetups
 (Description and screenshot)
 #### About Us
