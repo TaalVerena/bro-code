@@ -168,14 +168,23 @@ Together, these colors unite to compose a harmonious palette that captures the e
 * The other navigation links are positioned on the right-hand-side of the screen. These navigate to the 3 different sections ('Groups', 'Meetups' & 'About Us') as well as the signup page ('Join').
 * When hovered over, the links glow to create an interactive user experience. To distinguish between the logo and the other navigation links, the logo slows in a lighter color whereas the other navigation links glow blue.
 * The navigation bar is responsive to different devices and on smaller devices, the layout changes by positioning the logo in the center and the rest of the navigation links underneath the logo.
+* Aria labels have been added to the navigation links to cater to all users.
 * The change from the wireframe is the logo font. Caprasimo is used for the logo and Roboto for the body. Throughout the website, sans-serif is used as the default font.
   
-![Nav Bar](README-media/nav-bar.png)
+    ![Nav Bar](README-media/nav-bar.png)
+    ![Nav Bar Mobile](README-media/nav-bar-mobile.png)
 
-![Nav Bar Mobile](README-media/nav-bar-mobile.png)
+#### Landing Page
+* The landing page consists of a vibrant hero image and cover text that gives the user a clear description of what the Bro Code website is about.
+* The cover text fades in to draw attention to the information and 'Unite, Code, Adventure' is in bold to give contrast to the website slogan.
+* The text is large enough to be read comfortably and has a colorful background so that it stands out and flows with the color scheme of the website.
+* The hero image and cover text are responsive to different devices. The hero image changes dependiing on the device size to keep the focus on the coder and the cover text re-positions to leave sufficent room to view the image.
+* The start of the first section of the website, 'Groups', can be seen on the landing page to intrigue the user to scroll and read more.
+* The change from the wireframe is cropping the photo to remove the red at the bottom of the image and to add cover text.
 
-#### Landing Page Image
-(Description and screenshot)
+    ![Landing Page](README-media/landing-page.png)
+    ![Landing Page Mobile](README-media/landing-page-mobile.png)
+
 #### About Us
 (Description and screenshot)
 #### Groups
