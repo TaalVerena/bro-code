@@ -47,11 +47,11 @@ Whether you're a coder, gamer, reader, explorer, or a combination of these, Bro 
 ### User Stories
 | User Want or Need      | How It Is Achieved | Achieved     |
 | :---        |    :----:   |          ---: |
-| Navigate the website easily      | Inteactive navigation bar       | [x]   |
-| Find a group of likeminded programmers   | Groups that cater to different coders and hobbies        | [x]      |
-| Have easy access to upcomning events      | Weekly meetups available on the website       | [x]   |
-| Be able to access the wbeiste on any device      | Responsive webiste down to 320px       | [x]   |
-| Easily contact the people behind Bro Code      | Signup form created and Discord link emailed       | [x]   |
+| Navigate the website easily      | Interactive navigation bar ensures that users can easily jump to different sections of the website, facilitating seamless exploration.       | [x]   |
+| Find a group of like-minded programmers   | Our diverse range of groups, including Gamers, Java Beans, Book Club, Adventurers, Game Knights, and Community Code, offers a niche for every coder's interest and passion. Whether you're into gaming, literature, outdoor adventures, or collaborative coding, there's a group for you.        | [x]      |
+| Have easy access to upcomning events      | The website prominently displays weekly meetups, complete with titles, dates, locations, and descriptions. This enables users to stay informed about the exciting events happening within the Bro Code community.       | [x]   |
+| Be able to access the wbeiste on any device      | The website is designed with a responsive layout that adapts to various screen sizes, ensuring a seamless and user-friendly experience across devices, ranging from large desktop monitors to small mobile screens (down to 320px).       | [x]   |
+| Easily contact the people behind Bro Code      | We've created a convenient signup form that allows users to express their interest and join the community. Additionally, we provide a Discord link through which users can directly engage with the organizers and fellow members, fostering an open line of communication.       | [x]   |
 
 ## Planning
 ### Figma Wireframes
