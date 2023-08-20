@@ -876,6 +876,10 @@ input {
     .groups-paragraph-container>p {
         font-size: 122%;
     }
+
+    #form-background-image {
+        height: 950px;
+    }
 }
 
 /* media query for max-width: 760px */
