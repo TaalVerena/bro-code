@@ -318,6 +318,7 @@ I tested my website using the Lighthouse feature on Dev Tools. All 3 pages retur
 * The repo was created using the Code Instutute template and cloned using VS Code.
 * I used regular commits and ensured the commit messages were to the point and the code was sectioned into small groups of information.
 * My website was deployed to GitHub pages.
+* The live website can be viewed [here](https://taalverena.github.io/bro-code/).
 
 ## Credits
 
