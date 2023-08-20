@@ -225,13 +225,10 @@ header {
     height: 500px;
     padding: 0 20px;
     background-image: url('../images/meetups-image.webp');
-    background-repeat: no-repeat;
-    background-size: cover;
     display: flex;
     align-items: center;
     justify-content: space-around;
     gap: 1%;
-    position: relative;
 }
 
 #first-two-meetups,
@@ -330,6 +327,7 @@ header {
 .about-us-break>i {
     font-size: 206%;
     flex: 1;
+    color:#2b1661;
 }
 
 #about-us {
