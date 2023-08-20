@@ -23,7 +23,6 @@ body {
 }
 
 /* generic rules */
-
 .section-heading {
     height: 75px;
     display: flex;
@@ -34,6 +33,23 @@ body {
     text-align: center;
     font-size: 160%;
     font-weight: 50;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: #70e7e7;
+    text-shadow: 0 0 10px #14e0e0;
+}
+
+.background-image {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 }
 
 /* logo and h1 */
@@ -68,16 +84,6 @@ h1 {
     font-size: 135%;
 }
 
-a {
-    text-decoration: none;
-    color: white;
-}
-
-a:hover {
-    color: #70e7e7;
-    text-shadow: 0 0 10px #14e0e0;
-}
-
 /* header */
 header {
     height: 65px;
@@ -96,10 +102,6 @@ header {
     height: 630px;
     width: 100%;
     background-image: url('../images/hero-image-cropped.webp');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
 }
 
 /* cover text */
@@ -405,10 +407,6 @@ footer {
     top: 0;
     left: 0;
     background-image: url('../images/join-background-image.webp');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
     display: flex;
     flex-direction: column;
     padding: 1.5% 0;
@@ -493,10 +491,6 @@ input {
     height: 100vh;
     width: 100%;
     background-image: url('../images/thank-you-background-image.webp');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
     top: 0;
     left: 0;
 }
