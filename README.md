@@ -30,7 +30,21 @@ The live website can be viewed [here](https://taalverena.github.io/bro-code/).
 * [Deployment](#deployment)
 * [Credits](#credits)
 
-## User Stories
+## User Experience
+
+### Who Bro Code Caters For
+Bro Code's website is designed to cater to a diverse range of programmers who share a passion for coding, technology, and adventure. Our platform is welcoming and inclusive, making it ideal for:
+* Coding Enthusiasts
+* Tech Explorers
+* Adventurous Spirits
+* Social Learners
+* Aspiring Game Knights
+* Literature Lovers
+* Networking Enthusiasts
+
+Whether you're a coder, gamer, reader, explorer, or a combination of these, Bro Code invites you to join our vibrant community that celebrates coding as a way of life and embraces the spirit of adventure.
+
+### User Stories
 | User Want or Need      | How It Is Achieved | Achieved     |
 | :---        |    :----:   |          ---: |
 | Navigate the website easily      | Inteactive navigation bar       | [x]   |
