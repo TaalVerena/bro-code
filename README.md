@@ -5,18 +5,63 @@
 Welcome to Bro Code, a vibrant and dynamic coding club nestled in the heart of Ireland's tech community. Our website is more than just a digital platform; it's a portal to a world where technology, camaraderie, and adventure collide.
 
 ### Live Website
-The live website can be viewed [here](https://taalverena.github.io/bro-code/).
+The Bro Code website was signed my Sarah-Lee Bester and the live website can be viewed [here](https://taalverena.github.io/bro-code/).
 
 ![Am I Responsive](README-media/am-i-responsive.png)
 
 ## Table of Contents
 
-* [Site Overview](#site-overview)
-* [User Stories](#user-stories)
-* [Features](#features)
-* [Testing](#testing)
-* [Deployment](#deployment)
-* [Credits](#credits)
+- [Bro Code](#bro-code)
+  - [Introduction](#introduction)
+    - [Bro Code - Unite, Code, Adventure!](#bro-code---unite-code-adventure)
+    - [Live Website](#live-website)
+  - [Table of Contents](#table-of-contents)
+  - [User Experience](#user-experience)
+    - [Who Bro Code Caters For](#who-bro-code-caters-for)
+    - [User Stories](#user-stories)
+  - [Site Overview](#site-overview)
+    - [Explore Your Coding Passion](#explore-your-coding-passion)
+    - [Thrilling Meetups and Adventures](#thrilling-meetups-and-adventures)
+    - [Embrace the Bro Code Spirit](#embrace-the-bro-code-spirit)
+    - [Connect and Engage](#connect-and-engage)
+  - [Planning](#planning)
+    - [Crafting the Bro Code Experience](#crafting-the-bro-code-experience)
+      - [Starting with the Basics](#starting-with-the-basics)
+      - [Translating Vision into Design](#translating-vision-into-design)
+      - [Responsive Design for All](#responsive-design-for-all)
+      - [Mapping the User Journey](#mapping-the-user-journey)
+    - [Color Scheme](#color-scheme)
+    - [Figma Wireframes](#figma-wireframes)
+      - [Home](#home)
+      - [Groups](#groups)
+      - [Meetups](#meetups)
+      - [About Us](#about-us)
+      - [Signup Page](#signup-page)
+  - [Features](#features)
+    - [Existing Features](#existing-features)
+      - [Navigation Bar / Header](#navigation-bar--header)
+      - [Landing Page](#landing-page)
+      - [Groups](#groups-1)
+      - [Meetups](#meetups-1)
+      - [About Us](#about-us-1)
+      - [Footer](#footer)
+      - [Signup Page: Enter the Bro Code Universe](#signup-page-enter-the-bro-code-universe)
+      - [Thank You Page](#thank-you-page)
+      - [Favicon](#favicon)
+    - [Future Features to Implement](#future-features-to-implement)
+  - [Testing](#testing)
+    - [Lighthouse](#lighthouse)
+    - [Validator Testing](#validator-testing)
+    - [Bugs](#bugs)
+  - [Fixed Bugs](#fixed-bugs)
+  - [Unfixed Bugs](#unfixed-bugs)
+  - [Deployment](#deployment)
+  - [Credits](#credits)
+    - [Content](#content)
+    - [Media](#media)
+    - [Color Scheme, Fonts \& Icons](#color-scheme-fonts--icons)
+    - [Extensions](#extensions)
+    - [Other](#other)
 
 ## User Experience
 
@@ -318,7 +363,7 @@ I tested my website using the Lighthouse feature on Dev Tools. All 3 pages retur
 * The repo was created using the Code Instutute template and cloned using VS Code.
 * I used regular commits and ensured the commit messages were to the point and the code was sectioned into small groups of information.
 * My website was deployed to GitHub pages.
-* The live website can be viewed [here](https://taalverena.github.io/bro-code/).
+* The Bro Code website was signed my Sarah-Lee Bester and the live website can be viewed [here](https://taalverena.github.io/bro-code/).
 
 ## Credits
 
