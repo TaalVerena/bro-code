@@ -37,41 +37,51 @@ Stay connected with fellow coders beyond the screen through our social media cha
 | Easily contact the people behind Bro Code      | Signup form created and Discord link emailed       | [x]   |
 
 ## Planning
-### Figma Wireframe
+### Figma Wireframes
 #### Home
-* Home Page:
-![Alt text](assets/images/README/wireframe-home.png)
+* Home Page on Larger Devices:
 
-* Home Page on mobile:
-![Alt text](assets/images/README/wireframe-home-mobile.png)
+    ![Alt text](assets/images/README/wireframe-home.png)
+
+* Home Page on Mobiles:
+
+    ![Alt text](assets/images/README/wireframe-home-mobile.png)
 
 #### Groups
-* Groups Section:
-![Alt text](assets/images/README/wireframe-groups.png)
+* Groups Section on Larger Devices:
 
-* Groups Section on mobile:
-![Alt text](assets/images/README/wireframe-groups-mobile.png)
+    ![Alt text](assets/images/README/wireframe-groups.png)
+
+* Groups Section on Mobiles:
+
+    ![Alt text](assets/images/README/wireframe-groups-mobile.png)
 
 #### Meetups
-* Meetups Section:
-![Alt text](assets/images/README/wireframe-meetups.png)
+* Meetups Section on Larger Devices:
 
-* Meetups Section on mobile:
-![Alt text](assets/images/README/wireframe-meetups-mobile.png)
+    ![Alt text](assets/images/README/wireframe-meetups.png)
+
+* Meetups Section on Mobiles:
+
+    ![Alt text](assets/images/README/wireframe-meetups-mobile.png)
 
 #### About Us
-* About Us Section:
-![Alt text](assets/images/README/wireframe-about-us.png)
+* About Us Section on Larger Devices:
 
-* About Us Section on mobile:
-![Alt text](assets/images/README/wireframe-about-us-mobile.png)
+    ![Alt text](assets/images/README/wireframe-about-us.png)
+
+* About Us Section on Mobiles:
+
+    ![Alt text](assets/images/README/wireframe-about-us-mobile.png)
 
 #### Signup Page
-* Signup Page:
-![Alt text](assets/images/README/wireframe-signup.png)
+* Signup Page on Larger Devices:
 
-* Signup Page on mobile:
-![Alt text](assets/images/README/wireframe-signup-mobile.png)
+    ![Alt text](assets/images/README/wireframe-signup.png)
+
+* Signup Page on Mobiles:
+
+    ![Alt text](assets/images/README/wireframe-signup-mobile.png)
 
 ## Features
 (Different features and short description)
