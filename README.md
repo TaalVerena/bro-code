@@ -16,7 +16,10 @@ Bro Code is more than just lines of code; it's a way of life. Our community embr
 ### Connect and Engage
 Stay connected with fellow coders beyond the screen through our social media channels. Join us on Instagram, Facebook, and Discord to share your coding journey, discover new friendships, and take part in discussions that span from algorithms to epic gaming adventures.
 
-(insert Am I Responsive screenshot)
+### Live Website
+The live website can be viewed [here](https://taalverena.github.io/bro-code/).
+
+![Alt text](README-media/am-i-responsive.png)
 
 ## Table of Contents
 
