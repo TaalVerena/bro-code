@@ -309,16 +309,32 @@ I tested my website using the Lighthouse feature on Dev Tools. All 3 pages retur
 * Further research will be done to find the fix and this will be impleneted.
 
 ## Deployment
+* The repo was created using the Code Instutute template and cloned using VS Code.
+* I used regular commits and ensured the commit messages were to the point and the code was sectioned into small groups of information.
+* My website was deployed to GitHub pages.
 
 ## Credits
 
 ### Content
-* Markdown table layout sourced from https://www.markdownguide.org/extended-syntax/#tables
+* Wireframes designed using [Figma](https://www.figma.com/)
+* Markdown table layout sourced from [Markdown Guide](https://www.markdownguide.org/extended-syntax/#tables)
 
 ### Media
 * Hero image sourced from [Freepik](https://img.freepik.com/free-vector/female-programmer-working-computer-night_107791-19637.jpg?w=1380&t=st=1692291332~exp=1692291932~hmac=eba727fa0d86751c47779c3de478b9d51857c78830f0460604dba32d41997e42)
-* Thank you page background image sourced from [Freepik](https://img.freepik.com/free-photo/open-book-with-fairytale-scene_52683-107844.jpg?w=1380&t=st=1692291561~exp=1692292161~hmac=62c732b1d658371a3f5da45c4d1f378650b5772712731a6e1958339014aefee7)
 * Signup page background image sourced from [Freepik](https://img.freepik.com/free-vector/magic-portal-mountain-cliff-with-flying-rocks-around_107791-4674.jpg?w=1380&t=st=1692291689~exp=1692292289~hmac=febe9ad2b8b2e31c44eb3835d8abd3e4ed95a347c0fecd8374a1f73c20903171)
+* Thank you page background image sourced from [Freepik](https://img.freepik.com/free-photo/open-book-with-fairytale-scene_52683-107844.jpg?w=1380&t=st=1692291561~exp=1692292161~hmac=62c732b1d658371a3f5da45c4d1f378650b5772712731a6e1958339014aefee7)
+* Images edited using [Gimp](https://www.gimp.org/)
 
-### Color Scheme
+### Color Scheme, Fonts & Icons
 * Color scheme swatches sourced from and built upon [Adobe Color](https://color.adobe.com/create/image)
+* Font sourced from [Google Fonts](https://fonts.google.com/)
+* Icons sourced from [Font Awesome](https://fontawesome.com/)
+* Website tab icon sourced from / designed on [Favicon](https://favicon.io/)
+
+### Extensions
+* [WAVE](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)
+* [Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB)
+
+### Other
+* Wording refined using [Chat GPT](https://chat.openai.com/)
+* Code created and edited through [VS Code](https://code.visualstudio.com/)
