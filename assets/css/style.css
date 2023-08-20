@@ -888,8 +888,13 @@ input {
     }
 
     #meetups-container-image {
+        height: 730px;
         gap: 1%;
         padding: 7px;
+    }
+
+    #meetups-container-image {
+        
     }
 
     .meetups-details>p {
