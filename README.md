@@ -41,47 +41,47 @@ Stay connected with fellow coders beyond the screen through our social media cha
 #### Home
 * Home Page on Larger Devices:
 
-    ![Alt text](assets/images/README/wireframe-home.png)
+    ![Alt text](/README-media/wireframe-home.png)
 
 * Home Page on Mobiles:
 
-    ![Alt text](assets/images/README/wireframe-home-mobile.png)
+    ![Alt text](/README-media/wireframe-home-mobile.png)
 
 #### Groups
 * Groups Section on Larger Devices:
 
-    ![Alt text](assets/images/README/wireframe-groups.png)
+    ![Alt text](/README-media/wireframe-groups.png)
 
 * Groups Section on Mobiles:
 
-    ![Alt text](assets/images/README/wireframe-groups-mobile.png)
+    ![Alt text](/README-media/wireframe-groups-mobile.png)
 
 #### Meetups
 * Meetups Section on Larger Devices:
 
-    ![Alt text](assets/images/README/wireframe-meetups.png)
+    ![Alt text](/README-media/wireframe-meetups.png)
 
 * Meetups Section on Mobiles:
 
-    ![Alt text](assets/images/README/wireframe-meetups-mobile.png)
+    ![Alt text](/README-media/wireframe-meetups-mobile.png)
 
 #### About Us
 * About Us Section on Larger Devices:
 
-    ![Alt text](assets/images/README/wireframe-about-us.png)
+    ![Alt text](/README-media/wireframe-about-us.png)
 
 * About Us Section on Mobiles:
 
-    ![Alt text](assets/images/README/wireframe-about-us-mobile.png)
+    ![Alt text](/README-media/wireframe-about-us-mobile.png)
 
 #### Signup Page
 * Signup Page on Larger Devices:
 
-    ![Alt text](assets/images/README/wireframe-signup.png)
+    ![Alt text](/README-media/wireframe-signup.png)
 
 * Signup Page on Mobiles:
 
-    ![Alt text](assets/images/README/wireframe-signup-mobile.png)
+    ![Alt text](/README-media/wireframe-signup-mobile.png)
 
 ## Features
 (Different features and short description)
