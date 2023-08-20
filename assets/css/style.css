@@ -176,7 +176,7 @@ p {
     line-height: 50px;
 }
 
-.box-maroon {
+.box-magenta {
     background-color: #94176B;
 }
 
@@ -203,7 +203,7 @@ p {
     padding: 20px;
 }
 
-.maroon-border>p {
+.magenta-border>p {
     border-top: 4px solid #94176B;
     border-bottom: 4px solid #94176B;
 }
@@ -285,7 +285,7 @@ p {
     color: #422dc9;
 }
 
-.title-maroon {
+.title-magenta {
     color: #94176B;
 }
 
@@ -302,7 +302,7 @@ p {
     font-size: 128%;
 }
 
-.meetups-link-maroon {
+.meetups-link-magenta {
     color: #2d2942;
     text-decoration: underline #94176B;
 }
@@ -312,7 +312,7 @@ p {
     text-decoration: underline #422dc9;
 }
 
-.meetups-link-maroon:hover {
+.meetups-link-magenta:hover {
     color: #94176B;
     text-shadow: 0 0 10px #94176B;
 }
