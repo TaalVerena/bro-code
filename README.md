@@ -242,9 +242,16 @@ Together, these colors unite to compose a harmonious palette that captures the e
     ![Signup Page](README-media/signup-page.png)
     ![Signup Page Mobile](README-media/signup-page-mobile.png)
 
-Explore the Bro Code Universe Today!
 #### Thank You Page
-(Description and screenshot)
+* The Thank Youb Page is presented to the user after the signup form submission.
+* This page is kept minimal with confirmation to the uer that the form has been submitted successfuly and that they will shortly receive an email with a Discord link. As this website wascreated for a static website porfolion project, the information is not collected or stored at this time and this page is for illustrative purposes only.
+* Keeping the color theme of the man page and signup page, the same blue and purple colors are used for the Thank You page.
+* The header and footer tie in with the main page to provide a seamless transition between pages.
+* The Thank You page is responsive on different devices and keeps a very similar layout throughout. Varied versions of the background image are used to enusre the image remains of good quality and padding and margin for the cover text are adjusted to seamlessly read on all devices.
+* This page was not included in the wireframe, but was added to tie the whole page together. The vibrant ship background continues the feel of adventure and the bright blue accents match the glow effect used for the header and footer links.
+
+    ![Thank You Page](README-media/thank-you-page.png)
+    ![Thank You Page Mobile](README-media/thank-you-page-mobile.png)
 
 ### Features Left to Implement
 (Any future ideas)
