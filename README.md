@@ -155,10 +155,6 @@ Together, these colors unite to compose a harmonious palette that captures the e
     ![Signup Page Wireframe Mobile](/README-media/wireframe-signup-mobile.png)
 
 ## Features
-(Different features and short description)
-(Value provided to the user)
-(Target audience)
-(What the user wants to achieve and how my project is the best way to help them achieve this)
 
 ### Existing Features
 #### Navigation Bar / Header
@@ -185,15 +181,17 @@ Together, these colors unite to compose a harmonious palette that captures the e
     ![Landing Page](README-media/landing-page.png)
     ![Landing Page Mobile](README-media/landing-page-mobile.png)
 
-#### About Us
-(Description and screenshot)
 #### Groups
 (Description and screenshot)
 #### Meetups
 (Description and screenshot)
+#### About Us
+(Description and screenshot)
 #### Footer
 (Description and screenshot)
 #### Sign Up Page
+(Description and screenshot)
+#### Thank You Page
 (Description and screenshot)
 
 ### Features Left to Implement
