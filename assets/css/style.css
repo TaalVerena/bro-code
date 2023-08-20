@@ -1123,6 +1123,10 @@ input {
         max-width: 360px;
     }
 
+    #form-background-image {
+        height: 970px;
+    }
+
     #thank-you-background-image {
         background-image: url(../images/thank-you-background-image-medium.webp);
     }
