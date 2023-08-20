@@ -265,29 +265,47 @@ Together, these colors unite to compose a harmonious palette that captures the e
 * I tested my website on Chrome, Firefox and Edge.
 * I confirmed that my website is responsive, maintains good structure and image quality, and functions as intended on all standard screen sizes using Dev Tools.
 * Basic adjustments made for much larger devices.
-* I tested my website on 3 different PCs, 2 different laptops and 2 different phones.
+* I tested my website on 3 different PCs, 2 different laptops and 6 different phones.
 * I confirmed that the text throughout the website is easily read and understood.
 * I have confirmed that the form works, requires an email address, the submit button works and takes the user to a thank you page.
 
 ### Lighthouse
 I tested my website using the Lighthouse feature on Dev Tools. All 3 pages returned the desired results.
 
-#### Main Page Lighthouse Results
+* Main Page Lighthouse Results
 ![Lighthouse Main Page](README-media/lighthouse-main-page.png)
 
-#### Signup Page Lighthouse Results
+* Signup Page Lighthouse Results
 ![Lighthouse Signup Page](README-media/lighthouse-signup-page.png)
 
-#### Thank You Page Lighthouse Results
+* Thank You Page Lighthouse Results
 ![Lighthouse Thank You Page](README-media/lighthouse-thank-you-page.png)
 
 ### Validator Testing
-(HTML
-Check for any errors returned when passing through the official W3C validator)
-(CSS
-Check for any errors returned when passing through the official (Jigsaw) validator)
+* HTML
 
-### Unfixed Bugs
+    I checked all 3 files and no errors were returned when passing through the official W3C validator.
+
+    ![Validator HTML](README-media/validator-html.png)
+
+* CSS
+
+    I checked my CSS file and no errors were returned when passing through the official Jigsaw validator.
+
+    ![Validator CSS](README-media/validator-css.png)
+
+### Bugs
+
+## Fixed Bugs
+* When using Am I Responsive, I discovered a horizontal scroll bar on mobile devices.
+* I inspected my code and used Unicorn Revealer to adjust my margins and width for smaller devices. This fixed the bug and the horizontal scroll bar no longer appears.
+
+## Unfixed Bugs
+* The only unfixed bug is that on 2 of the mobiles I tested my live site on, I encountered an error with the navigation links.
+* When on those specific mobiles and on the home page, all section links work as intended. However, when going to the signup page and then clicking on a section link in the header, this goes to the landing page instead of the section on the main page.
+* I was unable to replicate this on the other 4 mobiles I tested my website on and all testing using Dev Tools worked as intended.
+* I researched this and found suggestions of adding a ? before the # in the id name, clearing the cache or using basic JavaScript. However, none of these returned the desired results.
+* Further research will be done to find the fix and this will be impleneted.
 
 ## Deployment
 
