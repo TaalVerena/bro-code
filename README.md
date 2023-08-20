@@ -162,7 +162,7 @@ Together, these colors unite to compose a harmonious palette that captures the e
 * The fixed header includes a navigation bar that allows seamless navigation throughout the website.
 * The 'Bro Code' logo is positioned to the left-hand-side of the screen and links to the home / landing page.
 * The other navigation links are positioned on the right-hand-side of the screen. These navigate to the 3 different sections ('Groups', 'Meetups' & 'About Us') as well as the signup page ('Join').
-* When hovered over, the links glow to create an interactive user experience. To distinguish between the logo and the other navigation links, the logo slows in a lighter color whereas the other navigation links glow blue.
+* When hovered over, the links glow to create an interactive user experience. To distinguish between the logo and the other navigation links, the logo glows in a lighter color whereas the other navigation links glow blue.
 * The navigation bar is responsive to different devices and on smaller devices, the layout changes by positioning the logo in the center and the rest of the navigation links underneath the logo.
 * Aria labels have been added to the navigation links to cater to all users.
 * The change from the wireframe is the logo font. Caprasimo is used for the logo and Roboto for the body. Throughout the website, sans-serif is used as the default font.
@@ -221,6 +221,7 @@ Together, these colors unite to compose a harmonious palette that captures the e
 * A fixed footer has been utilised, ensuring smooth navigation for the user.
 * To keep the footer more minimal compared to the website itself, this only contains links to social networks (Instagram, Facebook & Discord) along with a disclaimer.
 * Social mdia links open in a separate tab and inlcude Font Awesome icons to give visual confirmation to the user as well as aria labels for inclusivity of all users.
+* When hovered over, the links glow to create an interactive user experience. The same color has been used as the header to keep with the theme.
 * The footer is responsive on different devices and increases in height on medium devices, hiding the social network names on smaller devices. This ensures that the icons and disclaimer remain visible and easily clickable on all devices.
 * The changes from the wireframe inlcude the use of icons and the addition of th disclaimer. These changes have been implemented to ensure ease of use for the user.
   
@@ -236,6 +237,7 @@ Together, these colors unite to compose a harmonious palette that captures the e
 * A dropdown selection of counties in Munster have been provided to better enable the Bro Code team to recommend groups to the user. The option of 'Other' is also noted for users who are located abroad, but would still like to join the meetups / groups.
 * The checkbox includes confirmation that the user can join more groups, change thier mind about groups selected in the signup form or create their own groups. This gives the user flexibility and allows them to make joining the community an enjoyable and personalised experience.
 * The header and footer tie in with the main page to provide a seamless transition between pages.
+* The Signup page is responsive on different devices and keeps a very similar layout throughout. Varied versions of the background image are used to keep the focus on the portal and padding and margins for the cover text are adjusted to seamlessly read on all devices.
 * The submit button brings the user to the Thank You page detailed below.
 * The changes from the wireframe includde the addition of the background images and color changes. The eye-catching portal-themed background sets the stage for the user's journey into the Bro Code realm and follows the color scheme of the main page. A varied opacity version of the familiar colors used on the main page are used as background colors for the form text. 
 
@@ -247,7 +249,7 @@ Together, these colors unite to compose a harmonious palette that captures the e
 * This page is kept minimal with confirmation to the uer that the form has been submitted successfuly and that they will shortly receive an email with a Discord link. As this website wascreated for a static website porfolion project, the information is not collected or stored at this time and this page is for illustrative purposes only.
 * Keeping the color theme of the man page and signup page, the same blue and purple colors are used for the Thank You page.
 * The header and footer tie in with the main page to provide a seamless transition between pages.
-* The Thank You page is responsive on different devices and keeps a very similar layout throughout. Varied versions of the background image are used to enusre the image remains of good quality and padding and margin for the cover text are adjusted to seamlessly read on all devices.
+* The Thank You page is responsive on different devices and keeps a very similar layout throughout. Varied versions of the background image are used to enusre the image remains of good quality and padding and margins for the cover text are adjusted to seamlessly read on all devices.
 * This page was not included in the wireframe, but was added to tie the whole page together. The vibrant ship background continues the feel of adventure and the bright blue accents match the glow effect used for the header and footer links.
 
     ![Thank You Page](README-media/thank-you-page.png)
