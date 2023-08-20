@@ -947,6 +947,10 @@ input {
 
 /* media query for max-width: 580px */
 @media screen and (max-width: 580px) {
+    .header-and-footer {
+        height: 80px;
+    }
+
     #hero-image {
         height: 440px;
     }
