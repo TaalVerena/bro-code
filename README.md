@@ -206,9 +206,18 @@ Together, these colors unite to compose a harmonious palette that captures the e
     ![Meetups Section Mobile](README-media/meetups-mobile.png)
 
 #### About Us
-(Description and screenshot)
+* The About Us section gives the user an overall description of what the Bro Code community is all about. It lets the user know that this is a community of programmers and that groups for all hobbies and interests are catered for.
+* This setion confirms to the user that Bro Code is located in Munster, Ireland, and that all levels of programmers are welcome in our community.
+* The background color used is the color gradient in the Groups section, but in reverse. This is used to take the website from the blue accents in the Meetups section to the purple color used in the footer.
+* The colorful strip used at the start and end of the About Us section ties in the symbols used in the Bro Code logo as well as the colors used throughout the webiste. As this colorful feature was added, the text within this section is kept more minimal with the only other pop of color being a purple border. The border itself is again on the side as opposied to top and bottom as used in the Group section to give it a familiar, but altered affect.
+* This section is responsive to different devices and uses the same layout on all devices, with the margins, padding and font adjusting for each device.
+* The changesfrom the fireframe include the colorful strips, a gradient background, altered wording in the heading and a colorful border. These changes were decided on to give an overall style to the section that matches the rest of the wbsite.
+  
+    ![About Us Section](README-media/about-us.png)
+    ![About Us Section Mobile](README-media/about-us-mobile.png)
+
 #### Footer
-(Description and screenshot)
+
 #### Sign Up Page
 (Description and screenshot)
 #### Thank You Page
