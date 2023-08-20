@@ -110,13 +110,13 @@ Together, these colors unite to compose a harmonious palette that captures the e
 ### Figma Wireframes
 
 #### Home
-* Home Page on Larger Devices:
+* Landing Page on Larger Devices:
 
-    ![Home Page Wireframe](/README-media/wireframe-home.png)
+    ![Landing Page Wireframe](/README-media/wireframe-landing-page.png)
 
-* Home Page on Mobiles:
+* Landing Page on Mobiles:
 
-    ![Home Page Wireframe Mobile](/README-media/wireframe-home-mobile.png)
+    ![Landing Page Wireframe Mobile](/README-media/wireframe-landing-page-mobile.png)
 
 #### Groups
 * Groups Section on Larger Devices:
@@ -191,8 +191,20 @@ Together, these colors unite to compose a harmonious palette that captures the e
 
     ![Groups Section](README-media/groups.png)
     ![Groups Section Mobile](README-media/groups-mobile.png)
+
 #### Meetups
-(Description and screenshot)
+* The Meetups section contains weekly Bro Code Meetups. Each section contains the meetup title, date, location, time and a description.
+* The Meetups heading has a background color that matches the end gradient color of the Groups section, creating a seamless transition.
+* Each meetup title has a color that corresponds with the Groups section. This gives ease of use to the user and enables them to easily find meetups matching their interests.
+* These meetups are located in Ireland in person or are virtual meetups. Meetups that take place in person inlcude a link to Google Maps that opens in a separate tab and as well as aria labels to ensure inclusivivity for all users.
+* A map icon has been placed next to the location for in-person meetups to draw the user's attention and make a clickable link more easily visible.
+* Location links glow when hovered over in a corresponding color to the underline as well as the meetup title.
+* The Meetups section is responsive on different devices. Going from larger to medium sized devices, the groups are brought closer together. On medium devices, the groups are flexed into groups of 2 meetups and on smaller devices they are flexed into a column to enusre it is easily viewable on any device.
+* The changes from the wireframe include the use of color, a background image and a more crips meetup card color. These were chosen to make the meetups stand out and have a color contrast from the background image.
+
+    ![Meetups Section](README-media/meetups.png)
+    ![Meetups Section Mobile](README-media/meetups-mobile.png)
+
 #### About Us
 (Description and screenshot)
 #### Footer
