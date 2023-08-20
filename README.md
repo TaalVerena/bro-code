@@ -7,7 +7,7 @@ Welcome to Bro Code, a vibrant and dynamic coding club nestled in the heart of I
 ### Live Website
 The live website can be viewed [here](https://taalverena.github.io/bro-code/).
 
-![Alt text](README-media/am-i-responsive.png)
+![Am I Responsive](README-media/am-i-responsive.png)
 
 ## Table of Contents
 
@@ -112,47 +112,47 @@ Together, these colors unite to compose a harmonious palette that captures the e
 #### Home
 * Home Page on Larger Devices:
 
-    ![Alt text](/README-media/wireframe-home.png)
+    ![Home Page Wireframe](/README-media/wireframe-home.png)
 
 * Home Page on Mobiles:
 
-    ![Alt text](/README-media/wireframe-home-mobile.png)
+    ![Home Page Wireframe Mobile](/README-media/wireframe-home-mobile.png)
 
 #### Groups
 * Groups Section on Larger Devices:
 
-    ![Alt text](/README-media/wireframe-groups.png)
+    ![Groups Section Wireframe](/README-media/wireframe-groups.png)
 
 * Groups Section on Mobiles:
 
-    ![Alt text](/README-media/wireframe-groups-mobile.png)
+    ![Groups Section Wireframe Mobile](/README-media/wireframe-groups-mobile.png)
 
 #### Meetups
 * Meetups Section on Larger Devices:
 
-    ![Alt text](/README-media/wireframe-meetups.png)
+    ![Meetups Section Wireframe](/README-media/wireframe-meetups.png)
 
 * Meetups Section on Mobiles:
 
-    ![Alt text](/README-media/wireframe-meetups-mobile.png)
+    ![Meetups Section Wireframe Mobile](/README-media/wireframe-meetups-mobile.png)
 
 #### About Us
 * About Us Section on Larger Devices:
 
-    ![Alt text](/README-media/wireframe-about-us.png)
+    ![About Us Section Wireframe](/README-media/wireframe-about-us.png)
 
 * About Us Section on Mobiles:
 
-    ![Alt text](/README-media/wireframe-about-us-mobile.png)
+    ![About Us Section Wireframe Mobile](/README-media/wireframe-about-us-mobile.png)
 
 #### Signup Page
 * Signup Page on Larger Devices:
 
-    ![Alt text](/README-media/wireframe-signup.png)
+    ![Signup Page Wireframe](/README-media/wireframe-signup.png)
 
 * Signup Page on Mobiles:
 
-    ![Alt text](/README-media/wireframe-signup-mobile.png)
+    ![Signup Page Wireframe Mobile](/README-media/wireframe-signup-mobile.png)
 
 ## Features
 (Different features and short description)
@@ -170,9 +170,10 @@ Together, these colors unite to compose a harmonious palette that captures the e
 * The navigation bar is responsive to different devices and on smaller devices, the layout changes by positioning the logo in the center and the rest of the navigation links underneath the logo.
 * The change from the wireframe is the logo font. Caprasimo is used for the logo and Roboto for the body. Throughout the website, sans-serif is used as the default font.
   
-![Alt text](README-media/nav-bar.png)
+![Nav Bar](README-media/nav-bar.png)
 
-![Alt text](README-media/nav-bar-mobile.png)
+![Nav Bar Mobile](README-media/nav-bar-mobile.png)
+
 #### Landing Page Image
 (Description and screenshot)
 #### About Us
