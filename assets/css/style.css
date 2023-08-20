@@ -384,8 +384,8 @@ footer {
 
 #footer>p {
     font-size: smaller;
-    width: 100%;
     text-align: center;
+    margin: 2.5px;
 }
 
 /* form background image */
@@ -915,6 +915,10 @@ input {
 
 /* media query for max-width: 610px */
 @media screen and (max-width: 610px) {
+    .header-and-footer {
+        height: 90px;
+    }
+
     #first-two-meetups,
     #second-two-meetups {
         flex-direction: column;
@@ -947,10 +951,6 @@ input {
 
 /* media query for max-width: 580px */
 @media screen and (max-width: 580px) {
-    .header-and-footer {
-        height: 80px;
-    }
-
     #hero-image {
         height: 440px;
     }
