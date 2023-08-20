@@ -1,20 +1,8 @@
 # Bro Code
 
-## Site Overview
+## Introduction
 ### Bro Code - Unite, Code, Adventure!
 Welcome to Bro Code, a vibrant and dynamic coding club nestled in the heart of Ireland's tech community. Our website is more than just a digital platform; it's a portal to a world where technology, camaraderie, and adventure collide.
-
-### Explore Your Coding Passion
-At Bro Code, we celebrate the diverse facets of coding. Our themed groups, including Gamers, Java Beans, Book Club, Adventurers, Game Knights, and Community Code, cater to every coding interest. Whether you're unleashing your coding prowess in epic multiplayer battles or delving into the realms of literature and adventure, there's a place for you here.
-
-### Thrilling Meetups and Adventures
-Our meetups are not your typical gatherings. Imagine conquering the Cliffs of Moher on a hiking odyssey, immersing yourself in the mystical worlds of book club evenings, or embarking on heroic Dungeons & Dragons game knight adventures. Our events are as diverse as our community, offering unforgettable experiences for every coding wizard.
-
-### Embrace the Bro Code Spirit
-Bro Code is more than just lines of code; it's a way of life. Our community embraces the magic of coding while fostering meaningful connections. We debug, collaborate, and have a "bit" of fun along the way. From novices to seasoned programmers, everyone is welcome in our enchanted circle.
-
-### Connect and Engage
-Stay connected with fellow coders beyond the screen through our social media channels. Join us on Instagram, Facebook, and Discord to share your coding journey, discover new friendships, and take part in discussions that span from algorithms to epic gaming adventures.
 
 ### Live Website
 The live website can be viewed [here](https://taalverena.github.io/bro-code/).
@@ -52,6 +40,19 @@ Whether you're a coder, gamer, reader, explorer, or a combination of these, Bro 
 | Have easy access to upcomning events      | The website prominently displays weekly meetups, complete with titles, dates, locations, and descriptions. This enables users to stay informed about the exciting events happening within the Bro Code community.       | [x]   |
 | Be able to access the wbeiste on any device      | The website is designed with a responsive layout that adapts to various screen sizes, ensuring a seamless and user-friendly experience across devices, ranging from large desktop monitors to small mobile screens (down to 320px).       | [x]   |
 | Easily contact the people behind Bro Code      | We've created a convenient signup form that allows users to express their interest and join the community. Additionally, we provide a Discord link through which users can directly engage with the organizers and fellow members, fostering an open line of communication.       | [x]   |
+
+## Site Overview
+### Explore Your Coding Passion
+At Bro Code, we celebrate the diverse facets of coding. Our themed groups, including Gamers, Java Beans, Book Club, Adventurers, Game Knights, and Community Code, cater to every coding interest. Whether you're unleashing your coding prowess in epic multiplayer battles or delving into the realms of literature and adventure, there's a place for you here.
+
+### Thrilling Meetups and Adventures
+Our meetups are not your typical gatherings. Imagine conquering the Cliffs of Moher on a hiking odyssey, immersing yourself in the mystical worlds of book club evenings, or embarking on heroic Dungeons & Dragons game knight adventures. Our events are as diverse as our community, offering unforgettable experiences for every coding wizard.
+
+### Embrace the Bro Code Spirit
+Bro Code is more than just lines of code; it's a way of life. Our community embraces the magic of coding while fostering meaningful connections. We debug, collaborate, and have a "bit" of fun along the way. From novices to seasoned programmers, everyone is welcome in our enchanted circle.
+
+### Connect and Engage
+Stay connected with fellow coders beyond the screen through our social media channels. Join us on Instagram, Facebook, and Discord to share your coding journey, discover new friendships, and take part in discussions that span from algorithms to epic gaming adventures.
 
 ## Planning
 
