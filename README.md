@@ -256,6 +256,12 @@ Together, these colors unite to compose a harmonious palette that captures the e
     ![Thank You Page](README-media/thank-you-page.png)
     ![Thank You Page Mobile](README-media/thank-you-page-mobile.png)
 
+#### Favicon
+* The Bro Code favicon was designed using the same purple as the header and footer as well as the symbols used in the logo.
+* This was created to distinguish the website / tab from other websites the user may have open to enable them to easily navigate back to the Bro Code website.
+
+    ![Favicon](README-media/favicon.png)
+
 ### Future Features to Implement
 * As this website was deisgned for a portfolio project using HTML and CSS, the information from the signup page is not collected at present. Building on this to make it functional and have a running website is a feature I would like to implement at a later stage.
 * Once the webiste is in use, I would like to expand to other countries to cater to more users.
