@@ -506,6 +506,13 @@ input {
     font-size: 125%;
 }
 
+/* media query for min-width: 1800px */
+@media screen and (min-width: 1800px) {
+    #meetups-container-image {
+        height: 600px;
+    }
+}
+
 /* media query for min-width: 2500px */
 @media screen and (min-width: 2500px) {
     html {
