@@ -266,7 +266,7 @@ header {
 }
 
 .meetups-details>p {
-    padding: 2%;
+    padding: 2% 3%;
     line-height: 30px;
     font-size: 125%;
     color: #2d2942;
@@ -584,10 +584,6 @@ input {
     .meetups-details > .meetups-location, .meetups-details > p {
         font-size: 255%;
         line-height: 50px;
-    }
-
-    .meetups-details>p {
-        padding: 2% 3%;
     }
 
     #about-us-info>p {
