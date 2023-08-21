@@ -84,7 +84,7 @@ Whether you're a coder, gamer, reader, explorer, or a combination of these, Bro 
 | Navigate the website easily      | Interactive navigation bar ensures that users can easily jump to different sections of the website, facilitating seamless exploration.       | [x]   |
 | Find a group of like-minded programmers   | Our diverse range of groups, including Gamers, Java Beans, Book Club, Adventurers, Game Knights, and Community Code, offers a niche for every coder's interest and passion. Whether you're into gaming, literature, outdoor adventures, or collaborative coding, there's a group for you.        | [x]      |
 | Have easy access to upcomning events      | The website prominently displays weekly meetups, complete with titles, dates, locations, and descriptions. This enables users to stay informed about the exciting events happening within the Bro Code community.       | [x]   |
-| Be able to access the wbeiste on any device      | The website is designed with a responsive layout that adapts to various screen sizes, ensuring a seamless and user-friendly experience across devices, ranging from large desktop monitors to small mobile screens (down to 320px).       | [x]   |
+| Be able to access the website on any device      | The website is designed with a responsive layout that adapts to various screen sizes, ensuring a seamless and user-friendly experience across devices, ranging from large desktop monitors to small mobile screens (down to 320px).       | [x]   |
 | Easily contact the people behind Bro Code      | We've created a convenient signup form that allows users to express their interest and join the community. Additionally, we provide a Discord link through which users can directly engage with the organizers and fellow members, fostering an open line of communication.       | [x]   |
 
 ## Site Overview
@@ -254,7 +254,7 @@ Together, these colors unite to compose a harmonious palette that captures the e
 
 #### About Us
 * The About Us section gives the user an overall description of what the Bro Code community is all about. It lets the user know that this is a community of programmers and that groups for all hobbies and interests are catered for.
-* This setion confirms to the user that Bro Code is located in Munster, Ireland, and that all levels of programmers are welcome in our community.
+* This section confirms to the user that Bro Code is located in Munster, Ireland, and that all levels of programmers are welcome in our community.
 * The background color used is the color gradient in the Groups section, but in reverse. This is used to take the website from the blue accents in the Meetups section to the purple color used in the footer.
 * The colorful strip used at the start and end of the About Us section ties in the symbols used in the Bro Code logo as well as the colors used throughout the website. As this colorful feature was added, the text within this section is kept more minimal with the only other pop of color being a purple border. The border itself is on the sides instead of the top and bottom as used in the Group section to give it a familiar, but altered effect.
 * This section is responsive on different devices and uses the same layout on all devices, with the margins, padding and font adjusting for each device.
@@ -267,7 +267,7 @@ Together, these colors unite to compose a harmonious palette that captures the e
 * The footer uses the same color scheme and font as the header, creating a uniform design.
 * A fixed footer has been utilised, ensuring smooth navigation for the user.
 * To keep the footer more minimal compared to the website itself, this only contains links to social networks (Instagram, Facebook & Discord) along with a disclaimer.
-* Social mdia links open in a separate tab and inlcude Font Awesome icons to give visual confirmation to the user as well as aria labels for inclusivity of all users.
+* Social media links open in a separate tab and inlcude Font Awesome icons to give visual confirmation to the user as well as aria labels for inclusivity of all users.
 * When hovered over, the links glow to create an interactive user experience. The same color has been used as the header to keep with the theme.
 * The footer is responsive on different devices and increases in height on medium devices, hiding the social network names on smaller devices. This ensures that the icons and disclaimer remain visible and easily clickable on all devices.
 * The changes from the wireframe inlcude the use of icons and the addition of the disclaimer. These changes have been implemented to ensure ease of use for the user and confirmation of a portfolio project.
@@ -309,7 +309,7 @@ Together, these colors unite to compose a harmonious palette that captures the e
     ![Favicon](README-media/favicon.png)
 
 ### Future Features to Implement
-* As this website was deisgned for a portfolio project using HTML and CSS, the information from the signup page is not collected at present. Building on this to make it functional and have a running website is a feature I would like to implement at a later stage.
+* As this website was designed for a portfolio project using HTML and CSS, the information from the signup page is not collected at present. Building on this to make it functional and have a running website is a feature I would like to implement at a later stage.
 * Once the webiste is in use, I would like to expand to other countries to cater to more users.
 * Working with local companies and suppliers to organize group events, discounts and special offers for the Bro Code community.
 * Catering the website to also be responsive on much larger devices, excluding the most commonly used device sizes that have already been catered for.
@@ -381,7 +381,7 @@ I tested my website using the Lighthouse feature on Dev Tools. All 3 pages retur
 * When on those specific mobiles and on the home page, all section links work as intended. However, when going to the signup page and then clicking on a section link in the header, this goes to the landing page instead of the section on the main page.
 * I was unable to replicate this on the other 4 mobiles I tested my website on and all testing using Dev Tools worked as intended.
 * I researched this and found suggestions of adding a ? before the # in the id name, clearing the cache or using basic JavaScript. However, none of these returned the desired results.
-* Further research will be done to find the fix and this will be impleneted.
+* Further research will be done to find the fix and this will be implemented.
 
 ## Deployment
 * The repo was created using the Code Instutute template and cloned using VS Code.
