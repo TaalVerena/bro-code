@@ -103,10 +103,10 @@ Stay connected with fellow coders beyond the screen through our social media cha
 ## Planning
 
 ### Crafting the Bro Code Experience
-The journey of building the Bro Code website began with a vision to create a vibrant online space that embodies unity, adventure, and a shared love for coding. With a basic structure in mind—featuring a captivating hero image, a dynamic color scheme, and sections dedicated to groups, meetups, and -I embarked on the creative process armed using Figma wireframes.
+The journey of building the Bro Code website began with a vision to create a vibrant online space that embodies unity, adventure, and a shared love for coding. With a basic structure in mind — featuring a captivating hero image, a dynamic color scheme, and sections dedicated to groups, meetups, and details about the community - I embarked on the creative process armed with Figma wireframes.
 
 #### Starting with the Basics
-At the inception stage, I understood the importance of solid foundations. Figma provided me with a canvas to lay out the essential components of my website. My initial wireframes mapped out the core structure, highlighting the placement of the navigation bar, the hero section, and the main content areas—groups, meetups, and about us. This helped me visualize the overall layout and flow of the website, ensuring a seamless user experience.
+At the inception stage, I understood the importance of solid foundations. Using Figma, I designed a canvas to lay out the essential components of my website. My initial wireframes mapped out the core structure, highlighting the placement of the navigation bar, the hero section, and the main content areas—groups, meetups, and about us. This helped me visualize the overall layout and flow of the website, ensuring a seamless user experience.
 
 #### Translating Vision into Design
 With the hero image and vibrant color scheme as my guiding lights, I translated my vision into a tangible design. Using wireframes, I sketched out the arrangement of elements within each section, experimenting with various layouts and placements to find the perfect balance of aesthetics and functionality. This stage allowed us to iterate and refine the design ideas before diving into the detailed implementation.
@@ -210,7 +210,7 @@ Together, these colors unite to compose a harmonious palette that captures the e
 * The 'Bro Code' logo is positioned to the left-hand-side of the screen and links to the home / landing page.
 * The other navigation links are positioned on the right-hand-side of the screen. These navigate to the 3 different sections ('Groups', 'Meetups' & 'About Us') as well as the signup page ('Join').
 * When hovered over, the links glow to create an interactive user experience. To distinguish between the logo and the other navigation links, the logo glows in a lighter color whereas the other navigation links glow blue.
-* The navigation bar is responsive to different devices and on smaller devices, the layout changes by positioning the logo in the center and the rest of the navigation links underneath the logo.
+* The navigation bar is responsive on different devices and on smaller devices, the layout changes by positioning the logo in the center and the rest of the navigation links underneath the logo.
 * Aria labels have been added to the navigation links to cater to all users.
 * The change from the wireframe is the logo font. Caprasimo is used for the logo and Roboto for the body. Throughout the website, sans-serif is used as the default font.
   
@@ -221,7 +221,7 @@ Together, these colors unite to compose a harmonious palette that captures the e
 * The landing page consists of a vibrant hero image and cover text that gives the user a clear description of what the Bro Code website is about.
 * The cover text fades in to draw attention to the information and 'Unite, Code, Adventure' is in bold to give contrast to the website slogan.
 * The text is large enough to be read comfortably and has a colorful background so that it stands out and flows with the color scheme of the website.
-* The hero image and cover text are responsive to different devices. The hero image changes dependiing on the device size to keep the focus on the coder and the cover text re-positions to leave sufficent room to view the image.
+* The hero image and cover text are responsive on different devices. The hero image changes depending on the device size to keep the focus on the coder and the cover text re-positions to leave sufficent room to view the image.
 * The start of the first section of the website, 'Groups', can be seen on the landing page to intrigue the user to scroll and read more.
 * The change from the wireframe is cropping the photo to remove the red at the bottom of the image and to add cover text.
 
@@ -243,11 +243,11 @@ Together, these colors unite to compose a harmonious palette that captures the e
 * The Meetups section contains weekly Bro Code Meetups. Each section contains the meetup title, date, location, time and a description.
 * The Meetups heading has a background color that matches the end gradient color of the Groups section, creating a seamless transition.
 * Each meetup title has a color that corresponds with the Groups section. This gives ease of use to the user and enables them to easily find meetups matching their interests.
-* These meetups are located in Ireland in person or are virtual meetups. Meetups that take place in person inlcude a link to Google Maps that opens in a separate tab and as well as aria labels to ensure inclusivivity for all users.
+* These meetups are located in Ireland in person or are virtual meetups. Meetups that take place in person inlcude a link to Google Maps that opens in a separate tab and as well as aria labels to ensure inclusivity for all users.
 * A map icon has been placed next to the location for in-person meetups to draw the user's attention and make a clickable link more easily visible.
 * Location links glow when hovered over in a corresponding color to the underline as well as the meetup title.
 * The Meetups section is responsive on different devices. Going from larger to medium sized devices, the groups are brought closer together. On medium devices, the groups are flexed into groups of 2 meetups and on smaller devices they are flexed into a column to enusre it is easily viewable on any device.
-* The changes from the wireframe include the use of color, a background image and a more crips meetup card color. These were chosen to make the meetups stand out and have a color contrast from the background image.
+* The changes from the wireframe include the use of color, a background image and a more crisp meetup card color. These were chosen to make the meetups stand out and have a color contrast from the background image.
 
     ![Meetups Section](README-media/meetups.png)
     ![Meetups Section Mobile](README-media/meetups-mobile.png)
@@ -256,9 +256,9 @@ Together, these colors unite to compose a harmonious palette that captures the e
 * The About Us section gives the user an overall description of what the Bro Code community is all about. It lets the user know that this is a community of programmers and that groups for all hobbies and interests are catered for.
 * This setion confirms to the user that Bro Code is located in Munster, Ireland, and that all levels of programmers are welcome in our community.
 * The background color used is the color gradient in the Groups section, but in reverse. This is used to take the website from the blue accents in the Meetups section to the purple color used in the footer.
-* The colorful strip used at the start and end of the About Us section ties in the symbols used in the Bro Code logo as well as the colors used throughout the webiste. As this colorful feature was added, the text within this section is kept more minimal with the only other pop of color being a purple border. The border itself is again on the side as opposied to top and bottom as used in the Group section to give it a familiar, but altered affect.
-* This section is responsive to different devices and uses the same layout on all devices, with the margins, padding and font adjusting for each device.
-* The changesfrom the fireframe include the colorful strips, a gradient background, altered wording in the heading and a colorful border. These changes were decided on to give an overall style to the section that matches the rest of the wbsite.
+* The colorful strip used at the start and end of the About Us section ties in the symbols used in the Bro Code logo as well as the colors used throughout the website. As this colorful feature was added, the text within this section is kept more minimal with the only other pop of color being a purple border. The border itself is on the sides instead of the top and bottom as used in the Group section to give it a familiar, but altered effect.
+* This section is responsive on different devices and uses the same layout on all devices, with the margins, padding and font adjusting for each device.
+* The changes from the fireframe include the colorful strips, a gradient background, altered wording in the heading and a colorful border. These changes were decided on to give an overall style to the section that matches the rest of the wbsite.
   
     ![About Us Section](README-media/about-us.png)
     ![About Us Section Mobile](README-media/about-us-mobile.png)
@@ -270,31 +270,31 @@ Together, these colors unite to compose a harmonious palette that captures the e
 * Social mdia links open in a separate tab and inlcude Font Awesome icons to give visual confirmation to the user as well as aria labels for inclusivity of all users.
 * When hovered over, the links glow to create an interactive user experience. The same color has been used as the header to keep with the theme.
 * The footer is responsive on different devices and increases in height on medium devices, hiding the social network names on smaller devices. This ensures that the icons and disclaimer remain visible and easily clickable on all devices.
-* The changes from the wireframe inlcude the use of icons and the addition of th disclaimer. These changes have been implemented to ensure ease of use for the user.
+* The changes from the wireframe inlcude the use of icons and the addition of the disclaimer. These changes have been implemented to ensure ease of use for the user and confirmation of a portfolio project.
   
     ![Footer](README-media/footer.png)
     ![Footer Mobile](README-media/footer-mobile.png)
 
 #### Signup Page: Enter the Bro Code Universe
 * The Bro Code Signup Page, set against a captivating portal background, provides a signup process designed to seamlessly welcome the user into the Bro Code community.
-* The page enables the user to join the community following the submission of the form. The infrmation requested has been kept to the point to allow for a faster submission process and to keep the user' interest.
+* The page enables the user to join the community following the submission of the form. The information requested has been kept to the point to allow for a faster submission process and to keep the user's interest.
 * Placeholder text has been utilised for the user details input elements to prompt the user and labels used throughout the form as confirmation to the user.
 * The user details section has been set as 'required' as these details will be needed to send information and suggestions to the user.
-* The email input has been set as an type 'email' and names given for the input elements for information collection purposes.
-* A dropdown selection of counties in Munster have been provided to better enable the Bro Code team to recommend groups to the user. The option of 'Other' is also noted for users who are located abroad, but would still like to join the meetups / groups.
-* The checkbox includes confirmation that the user can join more groups, change thier mind about groups selected in the signup form or create their own groups. This gives the user flexibility and allows them to make joining the community an enjoyable and personalised experience.
+* The email input has been set as type 'email' and names given for the input elements for information collection purposes.
+* A dropdown selection of counties in Munster has been provided to better enable the Bro Code team to recommend groups to the user. The option of 'Other' is also noted for users who are located abroad, but would still like to join the meetups / groups.
+* The checkbox includes confirmation that the user can join more groups, change their mind about groups selected in the signup form or create their own groups. This gives the user flexibility and allows them to make joining the community an enjoyable and personalised experience.
 * The header and footer tie in with the main page to provide a seamless transition between pages.
 * The Signup page is responsive on different devices and keeps a very similar layout throughout. Varied versions of the background image are used to keep the focus on the portal and padding and margins for the cover text are adjusted to seamlessly read on all devices.
 * The submit button brings the user to the Thank You page detailed below.
-* The changes from the wireframe includde the addition of the background images and color changes. The eye-catching portal-themed background sets the stage for the user's journey into the Bro Code realm and follows the color scheme of the main page. A varied opacity version of the familiar colors used on the main page are used as background colors for the form text. 
+* The changes from the wireframe include the addition of the background image and color changes. The eye-catching portal-themed background sets the stage for the user's journey into the Bro Code realm and follows the color scheme of the main page. A varied opacity version of the familiar colors used on the main page are used as background colors for the form text. 
 
     ![Signup Page](README-media/signup-page.png)
     ![Signup Page Mobile](README-media/signup-page-mobile.png)
 
 #### Thank You Page
-* The Thank Youb Page is presented to the user after the signup form submission.
-* This page is kept minimal with confirmation to the uer that the form has been submitted successfuly and that they will shortly receive an email with a Discord link. As this website wascreated for a static website porfolion project, the information is not collected or stored at this time and this page is for illustrative purposes only.
-* Keeping the color theme of the man page and signup page, the same blue and purple colors are used for the Thank You page.
+* The Thank You Page is presented to the user after the signup form submission.
+* This page is kept minimal with confirmation to the user that the form has been submitted successfully and that they will shortly receive an email with a Discord link. As this website was created for a static website porfolio project, the information is not collected or stored at this time and this page is for illustrative purposes only.
+* Keeping the color scheme of the main page and signup page, the same blue and purple colors are used for the Thank You page.
 * The header and footer tie in with the main page to provide a seamless transition between pages.
 * The Thank You page is responsive on different devices and keeps a very similar layout throughout. Varied versions of the background image are used to enusre the image remains of good quality and padding and margins for the cover text are adjusted to seamlessly read on all devices.
 * This page was not included in the wireframe, but was added to tie the whole page together. The vibrant ship background continues the feel of adventure and the bright blue accents match the glow effect used for the header and footer links.
@@ -311,8 +311,8 @@ Together, these colors unite to compose a harmonious palette that captures the e
 ### Future Features to Implement
 * As this website was deisgned for a portfolio project using HTML and CSS, the information from the signup page is not collected at present. Building on this to make it functional and have a running website is a feature I would like to implement at a later stage.
 * Once the webiste is in use, I would like to expand to other countries to cater to more users.
-* Work with local companies and suppliers to organize group events, discounts and special offers for the Bro Code community.
-* Cater the website to also be responsive on much larger devices, excluding the most commonly used device sizes that have already been catered for.
+* Working with local companies and suppliers to organize group events, discounts and special offers for the Bro Code community.
+* Catering the website to also be responsive on much larger devices, excluding the most commonly used device sizes that have already been catered for.
 
 ## Testing
 * I tested my website on Chrome, Firefox and Edge.
