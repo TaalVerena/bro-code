@@ -22,7 +22,8 @@ body {
 }
 
 /* generic rules */
-header, footer {
+header,
+footer {
     height: 65px;
     background-color: rgba(43, 22, 97, 1);
     position: fixed;
@@ -209,7 +210,7 @@ header {
 }
 
 /* meetups */
-#meetups{
+#meetups {
     background-color: rgb(14, 51, 93);
 }
 
@@ -320,7 +321,7 @@ header {
 .about-us-break>i {
     font-size: 206%;
     flex: 1;
-    color:#2b1661;
+    color: #2b1661;
 }
 
 #about-us {
@@ -519,7 +520,8 @@ input {
         scroll-padding-top: 95px;
     }
 
-    header, footer {
+    header,
+    footer {
         height: 95px;
     }
 
@@ -554,12 +556,15 @@ input {
         line-height: 45px;
     }
 
-    #groups-heading, #meetups-heading, #about-us-heading {
+    #groups-heading,
+    #meetups-heading,
+    #about-us-heading {
         font-size: 350%;
         height: 100px;
     }
 
-    .groups-row-left, .groups-row-right {
+    .groups-row-left,
+    .groups-row-right {
         margin: 50px;
     }
 
@@ -588,7 +593,8 @@ input {
         font-size: 250%;
     }
 
-    .meetups-details > .meetups-location, .meetups-details > p {
+    .meetups-details>.meetups-location,
+    .meetups-details>p {
         font-size: 255%;
         line-height: 50px;
     }
@@ -608,7 +614,8 @@ input {
         height: 1250px;
     }
 
-    #form-background-image, #thank-you-background-image {
+    #form-background-image,
+    #thank-you-background-image {
         padding: 50px 0;
     }
 
@@ -780,7 +787,9 @@ input {
 
 /* media query for max-width: 810px */
 @media screen and (max-width: 810px) {
-    header, footer {
+
+    header,
+    footer {
         display: flex;
         flex-direction: column;
     }
@@ -793,7 +802,7 @@ input {
         justify-content: center;
         height: 65px;
     }
-    
+
     html {
         scroll-padding-top: 110px;
     }
@@ -863,6 +872,7 @@ input {
 
 /* media query for max-width: 700px */
 @media screen and (max-width: 700px) {
+
     .groups-row-left,
     .groups-row-right {
         flex-direction: column;
@@ -923,6 +933,7 @@ input {
 
 /* media query for max-width: 610px */
 @media screen and (max-width: 610px) {
+
     #first-two-meetups,
     #second-two-meetups {
         flex-direction: column;
