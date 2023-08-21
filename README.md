@@ -54,8 +54,8 @@ The Bro Code website was signed my Sarah-Lee Bester and the live website can be 
     - [Validator Testing](#validator-testing)
     - [WAVE](#wave)
     - [Bugs](#bugs)
-  - [Fixed Bugs](#fixed-bugs)
-  - [Unfixed Bugs](#unfixed-bugs)
+      - [Fixed Bugs](#fixed-bugs)
+      - [Unfixed Bugs](#unfixed-bugs)
   - [Deployment](#deployment)
   - [Credits](#credits)
     - [Content](#content)
@@ -372,11 +372,11 @@ I tested my website using the Lighthouse feature on Dev Tools. All 3 pages retur
 
 ### Bugs
 
-## Fixed Bugs
+#### Fixed Bugs
 * When using Am I Responsive, I discovered a horizontal scroll bar on mobile devices.
 * I inspected my code and used Unicorn Revealer to adjust my margins and width for smaller devices. This fixed the bug and the horizontal scroll bar no longer appears.
 
-## Unfixed Bugs
+#### Unfixed Bugs
 * The only unfixed bug is that on 2 of the mobiles I tested my live site on, I encountered an error with the navigation links.
 * When on those specific mobiles and on the home page, all section links work as intended. However, when going to the signup page and then clicking on a section link in the header, this goes to the landing page instead of the section on the main page.
 * I was unable to replicate this on the other 4 mobiles I tested my website on and all testing using Dev Tools worked as intended.
