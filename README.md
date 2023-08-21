@@ -323,16 +323,25 @@ Together, these colors unite to compose a harmonious palette that captures the e
 * I have confirmed that the form works, requires an email address, the submit button works and takes the user to a thank you page.
 
 ### Lighthouse
-I tested my website using the Lighthouse feature on Dev Tools. All 3 pages returned the desired results.
+I tested my website using the Lighthouse feature on Dev Tools. All 3 pages returned the desired results on both desktop and mobile testing.
 
 * Main Page Lighthouse Results
-![Lighthouse Main Page](README-media/lighthouse-main-page.png)
+![Main Page Lighthouse Results](README-media/lighthouse-main-page.png)
+
+* Mobile Main Page Lighthouse Results
+![Mobile Main Page Lighthouse Results](README-media/lighthouse-main-page-mobile.png)
 
 * Signup Page Lighthouse Results
-![Lighthouse Signup Page](README-media/lighthouse-signup-page.png)
+![Signup Page Lighthouse Results](README-media/lighthouse-signup-page.png)
+
+* Mobile Signup Page Lighthouse Results
+![Mobile Signup Page Lighthouse Results](README-media/lighthouse-signup-page-mobile.png)
 
 * Thank You Page Lighthouse Results
-![Lighthouse Thank You Page](README-media/lighthouse-thank-you-page.png)
+![Thank You Page Lighthouse Results](README-media/lighthouse-thank-you-page.png)
+
+* Mobile Thank You Page Lighthouse Results
+![Mobile Thank You Page Lighthouse Results](README-media/lighthouse-thank-you-page-mobile.png)
 
 ### Validator Testing
 * HTML
