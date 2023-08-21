@@ -1198,4 +1198,14 @@ input {
     #form-background-image {
         height: 1050px;
     }
+
+    #form-cover-text {
+        font-size: 120%;
+        padding: 15px 10px;
+    }
+
+    #form-heading {
+        font-size: 120%;
+        padding: 15px 10px 20px 10px;
+    }
 }
