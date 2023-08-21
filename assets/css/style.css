@@ -582,8 +582,12 @@ input {
     }
 
     .meetups-details > .meetups-location, .meetups-details > p {
-        font-size: 260%;
+        font-size: 255%;
         line-height: 50px;
+    }
+
+    .meetups-details>p {
+        padding: 2% 3%;
     }
 
     #about-us-info>p {
