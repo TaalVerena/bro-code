@@ -18,8 +18,7 @@ body {
     font-weight: 400;
     color: white;
     background-color: rgb(43, 22, 97);
-    padding-top: 64px;
-    padding-bottom: 64px;
+    padding: 64px 0;
 }
 
 /* generic rules */
